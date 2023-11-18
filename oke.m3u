@@ -26,7 +26,7 @@ https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 ###################################################################
 ####################### TV Nasional ###############################
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL",Ongis TV
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL",MPWTV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
