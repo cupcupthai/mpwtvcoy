@@ -16,6 +16,10 @@ https://s.id/SuperSportFUBOL
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",LIVE 6
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/xYkwkblcCfCBaC25h-XpsOKuUHI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",Bein 1 (V*)
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
