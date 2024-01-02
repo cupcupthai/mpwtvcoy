@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://img.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="LIVE", Indonesia Vs Libia CH 1
-http://mkctvnew.my.id/uji/ch1.m3u8
+#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z3SD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
 
 <==========National TV==========>
 
