@@ -1,20 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",Piala Dunia U17Ch 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",Piala Dunia U17Ch 2
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",LPiala Dunia U17Ch 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",Piala Dunia U17Ch 4
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",Piala Dunia U17Ch 5
-https://s.id/SuperSportFUBOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dmxw60zt6a8rur86zra94/Worldcup-u17.jpeg?rlkey=4xpgmwndqm4plllg01jwy79n9&dl=0" group-title="LIVE",LIVE 6
-https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://img.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="LIVE", Indonesia Vs Libia CH 1
+http://mkctvnew.my.id/uji/ch1.m3u8
 
 <==========National TV==========>
 
