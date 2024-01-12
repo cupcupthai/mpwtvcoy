@@ -1,17 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
-#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-05/01: Indonesia vs Libya - Giao hữu (BLV Phở Bò) #SD1
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
-#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-05/01: Indonesia vs Libya - Giao hữu (BLV Phở Bò) #SD2
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
-https://obevcimanyd179249207.thapcam.link/live/phoSD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
-#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-05/01: Indonesia vs Libya - Giao hữu (BLV Phở Bò) #HD
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
-#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-05/01: Indonesia vs Libya - Giao hữu (BLV Phở Bò) #FHD
-#EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
