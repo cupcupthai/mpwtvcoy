@@ -1242,7 +1242,40 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer="ht
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" group-title="Malaysia", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+##EXTINF:-1 tvg-id=""" group-title="SINGAPORE" tvg-logo=",MWAG1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
+https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
+
+##EXTINF:-1  tvg-id=""" group-title="SINGAPORE" tvg-logo=",MWAG3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2115349ba4d44a6aa9e19eeaab13e79f:c7fb6eac174c53dafe3d25c7562c0e6b
+https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
+
+##EXTINF:-1 tvg-id=""" group-title="SINGAPORE" tvg-logo=",MWAG5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f47b719efa4d4cd58e60815d8e9fec0e:252d44b5ee7d17dcbfb7d4ff74d23c5e
+https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
+
+##EXTINF:-1 tvg-id=""" group-title="SINGAPORE" tvg-logo=",MWAG6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
+https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
 
 =====================================================================================================================================================
 =====================================================================================================================================================
