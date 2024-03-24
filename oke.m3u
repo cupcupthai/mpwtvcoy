@@ -243,13 +243,6 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="Sports", Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.imgur.com/yfGuSPc.png" group-title="Sports",Sky Sport MotoGP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"COGun6DuTZ7CsZTEkIYTrg", "kid":"ADbqLpCNTMIO8IWV2p/5kQ" } ], "type":"temporary" }
-https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
-
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO PREMIUM", HBO Family Maxtream
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
