@@ -1,19 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
-#EXTINF: -1 tvg-logo="https://suaramahasiswa.info/wp-content/uploads/2020/05/SAHUR-2-scaled.jpg" group-title="sahur", Final Sahur-Sahur
-http://mpwtv.my.id/sahur.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ceDpiBN41EncYB7lfqk8d_39K_g=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4778978/original/067851700_1710933269-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Timnas_Indonesia_Vs_Vietnam_-_Shin_Tae-yong__Sandy_Walsh_Vs_Philippe_Troussier__Nguyen_Tien_Linh_copy.jpg" group-title="Kualifikasi", ind vs vet ch1
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 1 (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ceDpiBN41EncYB7lfqk8d_39K_g=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4778978/original/067851700_1710933269-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Timnas_Indonesia_Vs_Vietnam_-_Shin_Tae-yong__Sandy_Walsh_Vs_Philippe_Troussier__Nguyen_Tien_Linh_copy.jpg" group-title="Kualifikasi", ind vs vet ch2
-http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 2 (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ceDpiBN41EncYB7lfqk8d_39K_g=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4778978/original/067851700_1710933269-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Timnas_Indonesia_Vs_Vietnam_-_Shin_Tae-yong__Sandy_Walsh_Vs_Philippe_Troussier__Nguyen_Tien_Linh_copy.jpg" group-title="Kualifikasi", ind vs vet ch3
-http://171.238.181.52:18080/156.m3u8
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 3 (EPL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
+
 
 <==========National TV==========>
 
