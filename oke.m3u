@@ -13,8 +13,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ceDpiBN41EncYB7lfqk8d_39K_g=/500x500/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4778978/original/067851700_1710933269-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Timnas_Indonesia_Vs_Vietnam_-_Shin_Tae-yong__Sandy_Walsh_Vs_Philippe_Troussier__Nguyen_Tien_Linh_copy.jpg" group-title="Kualifikasi", ind vs vet ch3
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/may2SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+http://171.238.181.52:18080/156.m3u8
 
 <==========National TV==========>
 
@@ -137,6 +136,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 <==========Sports==========>
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png", Play Sports 1 (EPL)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png", Play Sports 2 (EPL)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png", Play Sports 3 (EPL)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sports",#True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
