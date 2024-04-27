@@ -138,9 +138,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar(HTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 group-title="National TV" tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/crdZD4R/Mentari-TV-svg.png",MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
