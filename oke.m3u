@@ -1,10 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
-#EXTINF:-1 tvg-id="12173506" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3cfqmly4xtfqrzad9l83mfitw_image-header_pDach_1713780304000&quality=70" group-title="[LIVE EVENT]", 02:00-01/05 BAYERN VS REAL MADRID - UEFA CHAMPIONS LEAGUE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d 
+#EXTINF:-1 tvg-id="12173506" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3cfqmly4xtfqrzad9l83mfitw_image-header_pDach_1713780304000&quality=70" group-title="[LIVE EVENT]", BAYERN VS REAL MADRID
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d 
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd 
 
-#EXTINF:-1 tvg-id="12173506" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3cfqmly4xtfqrzad9l83mfitw_image-header_pDach_1713780304000&quality=70" group-title="[LIVE EVENT]", 02:00-01/05 BAYERN VS REAL MADRID - UEFA CHAMPIONS LEAGUE #2 TUDN
+#EXTINF:-1 tvg-id="12173506" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3cfqmly4xtfqrzad9l83mfitw_image-header_pDach_1713780304000&quality=70" group-title="[LIVE EVENT]", BAYERN VS REAL MADRID
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2948f0202694625f3ec179b3cae5e46f:9f30691e44c7db65bd027658dfde94f8 
 http://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9wq4mfpxtb/out/v1/f077a747da864d4982935a6cf1eae3b2/cenc.mpd 
