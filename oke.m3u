@@ -1,13 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600" 
 
-
-#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://idn00053.tigoals60.com/
-#EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
-http://tvnid.wapgem.com/sctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga 2024 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://idn00053.tigoals60.com/
 #EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
