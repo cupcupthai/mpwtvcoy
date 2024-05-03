@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600" 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga 2024 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
-https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -127,8 +122,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
+https://tv.burhansyam.com/api/vd.m3u8?ch=sctv&t=666
 
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
