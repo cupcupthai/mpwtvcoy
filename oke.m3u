@@ -13,14 +13,6 @@ http://tvnid.wapgem.com/sctv.m3u8
 #EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
 http://tvnid.wapgem.com/moji.m3u8
 
-#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd?id=15
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
