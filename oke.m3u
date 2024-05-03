@@ -1,5 +1,26 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600" 
 
+
+#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://idn00053.tigoals60.com/
+#EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
+https://astro.transvision.workers.dev/http://tvnid.wapgem.com/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://idn00053.tigoals60.com/
+#EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
+https://astro.transvision.workers.dev/http://tvnid.wapgem.com/moji.m3u8
+
+#EXTINF:-1 tvg-logo="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/live-streaming-logo-png-images-download-thumbnail-1645119687.jpg" group-title="LIVE EVENT", LIVE 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd?id=15
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
