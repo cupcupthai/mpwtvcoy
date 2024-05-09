@@ -6,6 +6,11 @@
 #EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
 http://tvnid.wapgem.com/moji.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF: -1 tvg-logo="https://www.mercinews.com/wp-content/uploads/2024/05/86b45204e17c26057829e56f590f83d0.jpg" group-title="live", indo vs guinea
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF: -1 tvg-logo="https://www.mercinews.com/wp-content/uploads/2024/05/86b45204e17c26057829e56f590f83d0.jpg" group-title="live", indo vs guinea ch1
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
