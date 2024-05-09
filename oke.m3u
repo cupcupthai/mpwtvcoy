@@ -6,30 +6,19 @@
 #EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
 http://tvnid.wapgem.com/moji.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.mercinews.com/wp-content/uploads/2024/05/86b45204e17c26057829e56f590f83d0.jpg" group-title="live", indo vs guinea ch1
+https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" group-title="live" tvg-logo="https://asset-2.tstatic.net/banyumas/foto/bank/images/ilustrasi-Piala-Asia-U-23-2024-Qatar.jpg",P.Asia U23 CH1
+#EXTINF: -1 tvg-logo="https://www.mercinews.com/wp-content/uploads/2024/05/86b45204e17c26057829e56f590f83d0.jpg" group-title="live", indo vs guinea ch2
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset-2.tstatic.net/banyumas/foto/bank/images/ilustrasi-Piala-Asia-U-23-2024-Qatar.jpg" group-title="live", P.Asia U23 CH2
+#EXTINF: -1 tvg-logo="https://www.mercinews.com/wp-content/uploads/2024/05/86b45204e17c26057829e56f590f83d0.jpg" group-title="live", indo vs guinea ch3
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset-2.tstatic.net/banyumas/foto/bank/images/ilustrasi-Piala-Asia-U-23-2024-Qatar.jpg" group-title="live", P.Asia U23 CH3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset-2.tstatic.net/banyumas/foto/bank/images/ilustrasi-Piala-Asia-U-23-2024-Qatar.jpg" group-title="live", P.Asia U23 CH4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
-
-
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
