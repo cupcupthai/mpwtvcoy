@@ -11,6 +11,10 @@ http://tvnid.wapgem.com/moji.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-231514454" group-title="tes",tes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:272_HD.smil/manifest.mpd
 
 <==========National TV==========>
 
