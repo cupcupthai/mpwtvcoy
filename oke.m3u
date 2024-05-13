@@ -11,6 +11,10 @@ http://tvnid.wapgem.com/moji.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
+#EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2315144545.jpg" group-title="tes",tes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://cors-proxy.cooks.fyi/https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd
 
 <==========National TV==========>
 
