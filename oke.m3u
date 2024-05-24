@@ -2,9 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://idn00053.tigoals60.com/
-#EXTVLCOPT:http-origin=https://idn00053.tigoals60.com/
-http://tvnid.wapgem.com/moji.m3u8
+https://s.id/mojiHD_shareext-xs
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga CH2
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
