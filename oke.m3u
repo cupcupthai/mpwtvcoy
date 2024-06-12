@@ -9,16 +9,6 @@ https://s.id/mojiHD_shareext-xs
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
-#EXTINF: -1 tvg-logo="https://cms.disway.id/uploads/148244a5a1805acf1aae805ffec6efc1.png" group-title="live",indonesia vs filifina ch1
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://mpwtv.my.id/indo.m3u8
-
-#EXTINF: -1 tvg-logo="https://cms.disway.id/uploads/148244a5a1805acf1aae805ffec6efc1.png" group-title="live",indonesia vs filifina ch2
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://fhlsport18.1mv.xyz/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/ballbar_37110.m3u8
-
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
