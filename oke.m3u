@@ -30,7 +30,7 @@ http://45.41.213.34:70/TSN4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch5
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
