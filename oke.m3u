@@ -13,7 +13,7 @@ https://s.id/mojiHD_shareext-xs
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-2-hd/index.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -28,7 +28,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch4
-http://45.41.213.34:70/TSN4/index.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch5
