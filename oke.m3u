@@ -37,9 +37,8 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://roketmotor.nontonx.com/mgpplayer1
-https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg=.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
