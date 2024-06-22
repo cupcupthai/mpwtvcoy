@@ -20,7 +20,11 @@ https://admin.nayeemparvez315.workers.dev/bpk-tv/Six_HD_MOB/Fallback/index.m3u8
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch3
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-2-hd/index.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6b92e6f0c6957d98aa0d4a23d890800:e68568ca6147b0bb7b0fddc37061ddc6
+https://director.streaming.telia.com/tvm-packager-prod/group3/613f17f514b809f854ec2c3d/manifest.mpd
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch4
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
