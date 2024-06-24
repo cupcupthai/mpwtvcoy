@@ -71,12 +71,12 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/30/Logo_AFF_U16_Boys_Championship_Indonesia_2024.png/640px-Logo_AFF_U16_Boys_Championship_Indonesia_2024.png",Piala AFF u16
-https://pull.niues.live/live/stream-256080_lsd.m3u8
+http://mkctvnew.my.id/u16.m3u8
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/30/Logo_AFF_U16_Boys_Championship_Indonesia_2024.png/640px-Logo_AFF_U16_Boys_Championship_Indonesia_2024.png",Piala AFF u16 ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd01.xiimadedishalthough.shop/
-https://ttx0002ing-cf.cool6bcd6.cc/auth%3D0a4792b7fc4aeed9490e684a27cf346b43ce63a475cba1d46329e4afb530e4df543bd5f7eb9125b27b0d5d6882f00455c58ab2149430ab74d881e20b6a980e2f3b15243f490111118a49dd2c71ce086b1af9b392d9ccb26854f4a05b656fb27bc056d290ce21b20254ff3727358743aaee8cf6687027416cfd1a1d66f9bb8f4fa541377cc6b0a7a36266e9f45224cc6b30170b85c129dee7de3855364ad54b09%26cid%3DqmgnGZHTTiMcQYeNEd9_4240624%26_v%3D2%26_r%3DLDFdgv%26_vis%3Dc350e2e843fddc3efb8b5db7ed68a2d69dc2b300b85ed3c52a31caedec4abdf0%26_vvs%3D5c2cac063f1998ddcdd351513c875872ac7fafb3bfc0f10d8d675740c9496004/app/c259555.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.237.32.213:9981/stream/channelid/1888111875
+
 
 <==========National TV==========>
 
