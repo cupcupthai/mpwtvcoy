@@ -41,10 +41,11 @@ https://s6.hopslan.com/servus2/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika ch2
-https://telecorporacion-es.cdn.vustreams.com/live/b883ccd5-ccea-4d85-be1c-e0d4076024a7/live.isml/.m3u8
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika ch3
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika ch4
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7D82M3L3HYQyLwDSMBroPRO_CEbLMlNAezyf7RHmeTRQ6TnKl0oaP-5_TArxdrLgn7ClZPq6iSg9L0cm9R3k6A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_playlist.m3u8?type=live
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/30/Logo_AFF_U16_Boys_Championship_Indonesia_2024.png/640px-Logo_AFF_U16_Boys_Championship_Indonesia_2024.png",Piala AFF u16
 http://mkctvnew.my.id/u16.m3u8
