@@ -54,8 +54,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika ch4
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika ch5
-#EXTVLCOPT:http-referrer=https://play.azencode.com/
-https://us.score806.cc/us_fs1/index.m3u8
 
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/30/Logo_AFF_U16_Boys_Championship_Indonesia_2024.png/640px-Logo_AFF_U16_Boys_Championship_Indonesia_2024.png",Piala AFF u16
