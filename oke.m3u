@@ -14,7 +14,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch2
@@ -24,6 +24,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRpl
 https://katanaboss.online/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch4
 http://hw1.jemtv.com/app/trt1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="75395643" tvg-name="live" tvg-logo="https://cdn0-production-images-kly.akamaized.net/u09fWLf10fFnyW5_O70AzbLDKGk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4367917/original/000188100_1679485544-euro-2024-l-2_559d48b.jpg" group-title="live", UEFA Euro ch5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://cache3.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="livebro",Piala Amerika
