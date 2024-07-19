@@ -11,8 +11,16 @@ http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 
-#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/30/Logo_AFF_U16_Boys_Championship_Indonesia_2024.png/640px-Logo_AFF_U16_Boys_Championship_Indonesia_2024.png",Piala AFF u19 ch1
+#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch1
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 http://mkctvnew.my.id/u16.m3u8
+
 
 
 <==========National TV==========>
