@@ -15,16 +15,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch2
+https://pull.niur.live/live/stream-278654_lhd.m3u8
+
+
+#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmVjNTM6MjBkZTphZDozMTFiIiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJTQ1RWSEQiLCJzaWduYXR1cmVLZXkiOiI3MjNiYjVjYWM4MjRjNGYyZTUwZDA3MGFjOTU5YzdkNyIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMDAwNjY1NH0
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 
