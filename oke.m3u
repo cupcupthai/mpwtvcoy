@@ -874,47 +874,6 @@ https://melon-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 <=========================================== Malaysia ==========================================>
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" }], "type":"temporary" }
-#EXTINF:-1  group-title="Malaysia" tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png" tvg-id="AstroSupersport",Astro Supersport MY
-http://103.47.210.244:8080/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-#EXTINF:-1  group-title="Malaysia" tvg-logo="https://telegra.ph/file/bdb04ae013c6d829c3851.png" tvg-id="AstroSupersport2",Astro Supersport 2 MY
-http://103.47.210.244:8080/https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e64178c33e4185a3406d84252cd7a0:3bedd0bcd11756016c9a3ccbe79f6665
-#EXTINF:-1  group-title="Malaysia" tvg-logo="https://telegra.ph/file/fee0eec440200aabe6685.png" tvg-id="AstroSupersport3",Astro Supersport 3 MY
-http://103.47.210.244:8080/https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" }], "type":"temporary" }
-#EXTINF:-1   group-title="Malaysia" tvg-logo="https://telegra.ph/file/4cf5891aa6569231ea9a8.png" tvg-id="AstroSupersport4",Astro Supersport 4 MY
-http://103.47.210.244:8080/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"KsTvR0StICr8wuhz19w5Fg", "kid":"4r0pp0ZaSuSGp1ACMFgKbg" }], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://Sooka TV Malaysia.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1  group-title="Malaysia" tvg-logo="https://telegra.ph/file/5f88f4c83df61f6896eee.png" tvg-id="SPOTV",SPOTV MY
-http://103.47.210.244:8080/https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
