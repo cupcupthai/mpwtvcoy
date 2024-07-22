@@ -3,12 +3,8 @@
 http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
 https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
-#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga CH1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/306/2024/07/18/Piala-Presiden-2024-Vidio-1415410909.png" group-title="⚽ Live Event", Piala Presiden
+https://iptv.lancartech.co.id/donykris8/donykris8/74
 
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch1
