@@ -12,14 +12,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
 #EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch1
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch2
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch3
+#EXTINF:-1 group-title="Piala AFFu16" tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Live-Score-Hasil-Indonesia-Vs-Filipina-U19-Live-Piala-AFF-U-19-2024-Indra-Sjafri-Simpan-Jens-Raven.jpg",Piala AFF u19 ch2
 http://mkctvnew.my.id/u16.m3u8
-
 
 
 <==========National TV==========>
