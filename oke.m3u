@@ -16,7 +16,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 1
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/playlist.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=500&ImageId=7838161&EntityType=Item&EntityId=469700&Width=500&Height=500&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 2
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=500&ImageId=7838161&EntityType=Item&EntityId=469700&Width=500&Height=500&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 3
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 
