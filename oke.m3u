@@ -21,21 +21,6 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 
 
-
-==========================================LIVESTREAM EVENT=========================================
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVE STREAM",(A)SOCCER
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722094316~acl=/drm/dash/*~id=116165107~hmac=bc8052870aaa385bb8e45fbbd216eaf2d0d06b4d44ff8c6971392effb7533b0e&ck=ZGM3ZjNjMzYyNzAzN2UzNzQ3MGU3YWRkYTQ4M2ZlNGU6NWZlMjNjN2U1NzcxZTliMDU4NGIxMzE4Y2MzMjgwYmQ=
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVE STREAM",(A)EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd01.xiimadedishalthough.shop/
-https://tvnid.x10.mx/st2.m3u8
-
-
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
