@@ -5,26 +5,14 @@ http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
 https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Origin:https://silktv.ge
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/endosiar.m3u8
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="LIVE EVENT",SCTV
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 1
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/playlist.m3u8
 
 #EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
