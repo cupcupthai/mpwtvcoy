@@ -9,19 +9,15 @@ https://aquagm.qarva.info:8074/CHANNEL634/bitrates.m3u8$OPT:http-ext-header=Orig
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/ochannel.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/sxUeGHDta_V9lADKy_cGqSYkitA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4916790/original/046849000_1723535283-Piala_Super_Eropa_2024_-_Real_Madrid_Vs_Atalanta_copy.jpg" group-title="livebro", super cup ch1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/sxUeGHDta_V9lADKy_cGqSYkitA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4916790/original/046849000_1723535283-Piala_Super_Eropa_2024_-_Real_Madrid_Vs_Atalanta_copy.jpg" group-title="livebro", super cup ch2
+https://ovo.eelov.com/live/n-1/chunks.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=100&ImageId=7840340&EntityType=Item&EntityId=469700&Width=1080&Height=1080&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=png&Quality=500&ImageId=7838161&EntityType=Item&EntityId=469700&Width=500&Height=500&ResizeAction=fill&HorizontalAlignment=center&VerticalAlignment=top",ZMEWATCH CH 3
-https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 
 
