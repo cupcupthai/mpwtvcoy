@@ -13,22 +13,6 @@ https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/ochannel.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/sxUeGHDta_V9lADKy_cGqSYkitA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4916790/original/046849000_1723535283-Piala_Super_Eropa_2024_-_Real_Madrid_Vs_Atalanta_copy.jpg" group-title="livebro", super cup ch1
-https://ovo.eelov.com/live/n-1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/sxUeGHDta_V9lADKy_cGqSYkitA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4916790/original/046849000_1723535283-Piala_Super_Eropa_2024_-_Real_Madrid_Vs_Atalanta_copy.jpg" group-title="livebro", super cup ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/esceteve.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/sxUeGHDta_V9lADKy_cGqSYkitA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4916790/original/046849000_1723535283-Piala_Super_Eropa_2024_-_Real_Madrid_Vs_Atalanta_copy.jpg" group-title="livebro", super cup ch3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-
 <==========National TV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
