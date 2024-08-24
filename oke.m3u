@@ -172,8 +172,8 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png" group-title="Sports",DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20210714205002.jpg" group-title="Sports",Liga Italia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
