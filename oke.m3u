@@ -9,16 +9,15 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/02/996x664/proliga_320869d.jpg" group-title="event", Proliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/ochannel.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg"group-title="feeds",Indonesia vs Arab saudi
+http://mpwtv.my.id/u16.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="event bro", Liga Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/endosiar.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg"group-title="feeds",Indonesia vs Arab saudi ch2
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 <==========National TV==========>
 
