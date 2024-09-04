@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600" 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+https://en.gdplayertv.to/live-tv/bein-sports-1-mena/?embed=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
 #KODIPROP:inputstream.adaptive.license_type=clearkey
