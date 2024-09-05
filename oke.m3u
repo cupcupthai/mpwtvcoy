@@ -3,9 +3,8 @@
 https://en.gdplayertv.to/live-tv/bein-sports-1-mena/?embed=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/9W8fIAnpHrjBRPc7sFD1R58Ejm4=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg"group-title="feeds",Indonesia vs Arab saudi
 http://mpwtv.my.id/u16.m3u8
