@@ -8,6 +8,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga
+https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
+https://raw.githubusercontent.com/cupcupthai/thai/main/indosiar.m3u8
+
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/Hsiu6zy8lejwFV8p2SblWfLdcX4=/82x54:1349x899/750x500/data/photo/2024/09/06/66daa6a88774e.png"group-title="feeds",Indonesia vs Australia
 http://mpwtv.my.id/u16.m3u8
 
