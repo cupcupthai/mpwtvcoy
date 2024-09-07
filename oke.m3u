@@ -15,11 +15,11 @@ https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
 https://raw.githubusercontent.com/cupcupthai/thai/main/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/Hsiu6zy8lejwFV8p2SblWfLdcX4=/82x54:1349x899/750x500/data/photo/2024/09/06/66daa6a88774e.png"group-title="feeds",Indonesia vs Australia
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/cvm-Yzp161WOw2ARJur11S0ln5c=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4801134/original/061898600_1713086481-Piala_Asia_U-23_-_Timnas_Indonesia_U-23_Vs_Australia_copy.jpg"group-title="feeds",Indonesia vs Australia
 http://mpwtv.my.id/u16.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/Hsiu6zy8lejwFV8p2SblWfLdcX4=/82x54:1349x899/750x500/data/photo/2024/09/06/66daa6a88774e.png"group-title="feeds",Indonesia vs Australia ch 2
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/cvm-Yzp161WOw2ARJur11S0ln5c=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4801134/original/061898600_1713086481-Piala_Asia_U-23_-_Timnas_Indonesia_U-23_Vs_Australia_copy.jpg"group-title="feeds",Indonesia vs Australia ch 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
