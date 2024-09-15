@@ -4,14 +4,15 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=17624&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
+http://gatotkaca007.serv00.net/red/play.mpd?id=17624&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
