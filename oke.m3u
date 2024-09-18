@@ -26,12 +26,12 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://media.bolatimes.com/thumbs/2018/09/17/94330-logo-liga-champions-afp/730x480-img-94330-logo-liga-champions-afp.jpg " group-title="Liga Champion",UCL Infinity 2
+#EXTINF:-1 tvg-id=" " tvg-logo="https://media.bolatimes.com/thumbs/2018/09/17/94330-logo-liga-champions-afp/730x480-img-94330-logo-liga-champions-afp.jpg" group-title="Liga Champion",UCL Infinity 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://media.bolatimes.com/thumbs/2018/09/17/94330-logo-liga-champions-afp/730x480-img-94330-logo-liga-champions-afp.jpg " group-title="Liga Champion",UCL Infinity 3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://media.bolatimes.com/thumbs/2018/09/17/94330-logo-liga-champions-afp/730x480-img-94330-logo-liga-champions-afp.jpg" group-title="Liga Champion",UCL Infinity 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
