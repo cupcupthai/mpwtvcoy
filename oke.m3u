@@ -11,15 +11,6 @@ https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
 https://raw.githubusercontent.com/cupcupthai/thai/main/indosiar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-
-
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://media.bolatimes.com/thumbs/2018/09/17/94330-logo-liga-champions-afp/730x480-img-94330-logo-liga-champions-afp.jpg" group-title="Liga Champion",UCL CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
