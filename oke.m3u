@@ -15,7 +15,7 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/jadwal-pertandingan-timnas-u19-indonesia-vs-timor-leste.jpg"group-title="Feed Sports",indonesia vs timur leste u20
 http://mpwtv.my.id/u16.m3u8
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/jadwal-pertandingan-timnas-u19-indonesia-vs-timor-leste.jpg"group-title="Feed Sports",indonesia vs timur leste u20 ch2
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001727418458-0-0-aefb2686168e5c873067e9451d47fde3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
