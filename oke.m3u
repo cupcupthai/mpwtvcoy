@@ -11,9 +11,9 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/jadwal-pertandingan-timnas-u19-indonesia-vs-timor-leste.jpg"group-title="Feed Sports",indonesia vs timur leste u20
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x7srX0spgKU/maxresdefault.jpg"group-title="Feed Sports",indonesia vs yaman u20
 http://mpwtv.my.id/u16.m3u8
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/jadwal-pertandingan-timnas-u19-indonesia-vs-timor-leste.jpg"group-title="Feed Sports",indonesia vs timur leste u20 ch2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x7srX0spgKU/maxresdefault.jpg"group-title="Feed Sports",indonesia vs yaman u20 ch2
 http://mpwtv.my.id/u16.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
