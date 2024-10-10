@@ -8,6 +8,10 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/NONTON-BARENG-INDONESIA-VS-BAHRAIN-1.png"group-title="feed",Bahrain vs Indonesia ch1
+http://mpwtv.my.id/u16.m3u8
+#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/NONTON-BARENG-INDONESIA-VS-BAHRAIN-1.png"group-title="feed",Bahrain vs Indonesia ch2
+http://mpwtv.my.id/u17.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
