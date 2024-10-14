@@ -8,9 +8,9 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/NONTON-BARENG-INDONESIA-VS-BAHRAIN-1.png"group-title="feed",Bahrain vs Indonesia ch1
+#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/FotoJet-2024-10-14T123901.237.jpg"group-title="feed",China vs Indonesia ch1
 http://mpwtv.my.id/u16.m3u8
-#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/NONTON-BARENG-INDONESIA-VS-BAHRAIN-1.png"group-title="feed",Bahrain vs Indonesia ch2
+#EXTINF:-1 tvg-logo="https://haijakarta.id/wp-content/uploads/2024/10/FotoJet-2024-10-14T123901.237.jpg"group-title="feed",China vs Indonesia ch2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
