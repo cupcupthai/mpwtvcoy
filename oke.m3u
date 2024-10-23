@@ -18,7 +18,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
-https://raw.githubusercontent.com/cupcupthai/thai/main/indosiar.m3u8
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
 
 #EXTINF:-1 group-title="SPORT LIVE EVENTS🔰" tvg-logo="https://png.pngtree.com/png-clipart/20230114/original/pngtree-live-sports-clipart-image-download-png-image_8908713.png",Event 1
