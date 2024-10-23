@@ -8,6 +8,11 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/7w2dDS3Lc_wy-BwEhZX1cYK390c=/0x0:1080x608/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4976377/original/051737100_1729589617-Piala_Asia_U-17_-_Timnas_Indonesia_Vs_Kuwait_copy.jpg"group-title="feed Sports",Indonesia vs kuwait u17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
