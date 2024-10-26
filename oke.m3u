@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-http://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 #EXTINF:-1 group-title="SPORT LIVE EVENTS🔰" tvg-logo="https://png.pngtree.com/png-clipart/20230114/original/pngtree-live-sports-clipart-image-download-png-image_8908713.png",Event 1
