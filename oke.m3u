@@ -8,19 +8,14 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=123|referer=https://mhdtv.co.in
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/akan-berhadapan-dengan-Kepulauan.jpg"group-title="feed Sports",Indonesia vs kep.mariana u17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
 https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.bowos.workers.dev/rplus/drm.php?id=1002
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
