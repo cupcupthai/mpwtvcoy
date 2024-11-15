@@ -7,7 +7,9 @@ https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+Eme
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
-https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
 #EXTVLCOPT:http-user-agent=MXPlayer/1.42.13 (Linux; Android 7.1.2; in-ID; Redmi Note 5A Build/N2G47H)
