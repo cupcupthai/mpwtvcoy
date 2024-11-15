@@ -1,8 +1,8 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
 https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnPYpBhUyUpB3V1aYSvfLEQn5eXjmMzOojdPk2EAY0hsXOpxD7XbyGGGyYNm2K0dU0fdwZfSyFz6glhFpOyhrpGm3PHOIXuAEzS/rBAqCh3kazUWYyMoAy8PEubTmXsf4e1MJB3MpCPd5MdkYftKSCdva3WDc6ANhDOIQH0q22azLvbgiue2v9EiSQ=='
