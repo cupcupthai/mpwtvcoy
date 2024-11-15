@@ -14,6 +14,13 @@ https://raw.githubusercontent.com/cupcupthai/thai/main/moji.m3u8
 http://xtv.ooo:8080/83212539/43153928/350972
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/11/14/indus-1513198004.jpg" group-title="feedsport",Indonesia Vs Jepang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/11/14/indus-1513198004.jpg" group-title="feedsport",Indonesia Vs Jepang ch2
+http://mpwtv.my.id/u16.m3u8
 
 
 <==========National TV==========>
