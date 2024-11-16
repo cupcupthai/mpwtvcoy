@@ -17,14 +17,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-user-agent=MXPlayer/1.42.13 (Linux; Android 7.1.2; in-ID; Redmi Note 5A Build/N2G47H)
 https://opplex.tv:8080/live/3116580700/0700/350972.ts
 
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1024353405769150465/UBF0KbZy.jpg" group-title="feed LOKAL", PON TV
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/11/14/indus-1513198004.jpg" group-title="feedsport",Indonesia Vs Jepang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/11/14/indus-1513198004.jpg" group-title="feedsport",Indonesia Vs Jepang ch2
-http://mpwtv.my.id/u16.m3u8
+#http://mpwtv.my.id/u16.m3u8
 
 
 <==========National TV==========>
