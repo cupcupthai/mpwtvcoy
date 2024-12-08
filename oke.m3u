@@ -134,22 +134,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-
-#EXTINF:-1 tvg-id="beINSports1.id" group-title="Sports" group-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png",ChampionsTV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 tvg-id="beINSports1.id" group-title="Sports" group-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png", ChampionsTV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="Sports" ch-number="18" tvg-id="TVRISport.id" tvg-name="TVRI Sport HD", TVRI Sport HD
+https://warningfm.github.io/v3/live/str/id/3f58825fe229a8h.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
