@@ -10,7 +10,14 @@ https://nowsports.in/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://nowspor
 #KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2024/10/07/Logo-Piala-AFF-2024-Ok-632227346.jpg" group-title="feed aff", Piala AFF CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2024/10/07/Logo-Piala-AFF-2024-Ok-632227346.jpg" group-title="feed aff", Piala AFF CH2
+http://mkctvnew.my.id/u16.m3u8
 
 <==========National TV==========>
 
