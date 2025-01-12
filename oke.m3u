@@ -134,6 +134,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 <==========Sports==========>
 
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Sports", UFC live
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #EXTINF:-1 tvg-id="beINSports1.id" group-title="Sports" group-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png",ChampionsTV 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
