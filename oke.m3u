@@ -134,7 +134,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cookiewebplay.xyz&referer=https://cookiewebplay.xyz/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://ddv1.mizhls.ru/lb/premium538/index.m3u8
+https://ddv1.mizhls.ru/lb/premium415/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://www.ligaolahraga.com/storage/images/news/2024/07/04/rilis-serie-a-enilive-jadwal-pertandingan-liga-italia-resmi-dirilis.jpg" group-title="Sports",SERI A 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
