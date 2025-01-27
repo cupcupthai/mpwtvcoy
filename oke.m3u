@@ -20,11 +20,8 @@ https://dusk.biz.id/visas/index.mpd?id=1013
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2024/10/07/Logo-Piala-AFF-2024-Ok-632227346.jpg" group-title="feed aff", Piala AFF CH1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
-http://103.178.153.45/live/42AE3BEB79C56924BB3FB477777A9F40/1.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/FQMzARc_xlVCKQzxRaBGSJE4M1Y=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4952032/original/019481400_1727181192-Timnas_Indonesia_-_Ilustrasi_Indra_Sjafri_dikelilingi_pemain_Timnas_Indonesia_U-20_copy.jpg" group-title="feed aff", Uji coba U20
+https://mantul.biz.id:443/inetwork/gayanet12/60.ts
 <==========National TV==========>
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
