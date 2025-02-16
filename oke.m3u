@@ -26,6 +26,13 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=17938
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/04/996x664/proliga-2024_643d8e7.jpg" group-title="feed",Proliga 
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
+https://gasruktv.my.id/asx/live.mpd?id=17623
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.okezone.com/content/2025/02/13/51/3113464/jadwal_siaran_langsung_timnas_indonesia_u_20_di_piala_asia_u_20_2025_gtv-e69p_large.jpg" group-title="Piala Asia", Piala Asia U20 CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
