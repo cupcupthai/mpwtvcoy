@@ -1,13 +1,9 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9URTNZV0l3Tm1ZdE5HVmxOaTAwTXprd0xUa3dZbUV0TVdNd09HRTVNbUZrTkdJeiIsIndtb3BpZCI6MzIsImV4cCI6MTczOTkwNDU5NiwiaWF0IjoxNzM5MzAwNTk2fQ.cUtgV8thOcbEV1ceX_JISzV3SZ21i7m-e4ukxLgVw6w"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uL81rubByLqIQmh8S/RXlA", "kid":"76sSYpjDR+C51N9vxDbMlg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="816.astro" tvg-name="ASSP6 HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-https://d1yws6emo43ny.cloudfront.net/CH3/masterCH3.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|User-Agent=aizzal
 
 
 
