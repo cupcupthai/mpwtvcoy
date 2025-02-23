@@ -7,12 +7,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
-https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTc0MDQ1ODI0NiwiaWF0IjoxNzM5ODU0MjQ2fQ.KWwvQ6eRO2NcRes1V6Wrs_Omk35nFl07ElYmmG8UKTE
-
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
 
 
