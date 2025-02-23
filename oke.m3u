@@ -20,11 +20,12 @@ https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUz
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg" group-title="feed",Liga Indonesia
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.okezone.com/content/2025/02/13/51/3113464/jadwal_siaran_langsung_timnas_indonesia_u_20_di_piala_asia_u_20_2025_gtv-e69p_large.jpg" group-title="Piala Asia", Piala Asia U20 CH1
