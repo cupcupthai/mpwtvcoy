@@ -28,11 +28,6 @@ https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/indosiar.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.okezone.com/content/2025/02/13/51/3113464/jadwal_siaran_langsung_timnas_indonesia_u_20_di_piala_asia_u_20_2025_gtv-e69p_large.jpg" group-title="Piala Asia", Piala Asia U20 CH1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 <==========National TV==========>
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
