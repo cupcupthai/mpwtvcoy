@@ -6,7 +6,7 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 
