@@ -17,6 +17,10 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.okezone.com/content/2025/03/10/40/3120911/simak_jadwal_all_england_2025-grB9_large.jpg" group-title="Alengland",Badminton 
 https://raw.githubusercontent.com/MayangTV/ya2m/refs/heads/master/bulu1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.okezone.com/content/2025/03/10/40/3120911/simak_jadwal_all_england_2025-grB9_large.jpg" group-title="Alengland",Badminton ch2
+https://raw.githubusercontent.com/cupcupthai/cungcung/refs/heads/main/bad.m3u8
+
 <==========National TV==========>
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
