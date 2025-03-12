@@ -14,10 +14,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2025/03/20250311151126-jadwal-all-england-2025.jpg"group-title="Alengland", Badminton
-https://raw.githubusercontent.com/MayangTV/ya2m/refs/heads/master/bulu1.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2025/03/20250311151126-jadwal-all-england-2025.jpg"group-title="Alengland", Badminton ch2
-https://raw.githubusercontent.com/cupcupthai/cungcung/refs/heads/main/bad.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2025/03/20250311151126-jadwal-all-england-2025.jpg"group-title="Alengland", Badminton ch3
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 <==========National TV==========>
