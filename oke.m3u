@@ -22,14 +22,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2025/03/20250311151126-jadwal-all-england-2025.jpg"group-title="Alengland", Badminton ch2
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
-
 
 #EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", Liga Indo CH1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
