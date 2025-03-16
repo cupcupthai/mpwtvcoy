@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2025/03/20250311151126-jadwal-all-england-2025.jpg"group-title="Alengland", Badminton
-http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
+https://sports361.github.io/hls/csn1.m3u8
 
 
 
