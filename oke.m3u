@@ -7,6 +7,13 @@
 #KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
 
+#EXTINF:-1 tvg-id="" tvg-logo="hhttps://asset-2.tstatic.net/pontianak/foto/bank/images/Australia-vs-Timnas-Indonesia-Leg-2-matchday.jpg" group-title="timnas", Australia vs Indo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="hhttps://asset-2.tstatic.net/pontianak/foto/bank/images/Australia-vs-Timnas-Indonesia-Leg-2-matchday.jpg" group-title="timnas", Australia vs indo ch2
+http://mkctvnew.my.id/timnas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20220917/original/pngtree-gratis-tanpa-dipungut-biaya-vector-png-image_8621099.png" group-title="⚽ gratis", mpwtv ini gratiss
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
