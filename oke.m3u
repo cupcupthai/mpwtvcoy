@@ -27,12 +27,11 @@ https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/rcti.m3u8
 https://sports361.github.io/hls/csn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton2
-#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDIzNzMzMjgsImlzcyI6IlZSIiwiZXhwIjoxNzQyNDIzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMGI4MmNmNjMtNzllZC00Y2Y1LThhZWUtMDQ0N2Y4YWZhMjU5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MTA4MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.OuP31Ryb2bzlZJ_Cl8sB6spukP6TT9tTGwYlb4yvZ3I
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c,f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://l02.dp.sooka.my/5100/linear/index.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
 
 
 <==========National TV==========>
