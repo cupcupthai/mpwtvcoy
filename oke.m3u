@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=205&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=205|referrer=https://m.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/timnas-u16-indonesia_20180929_223359.jpg" group-title="timnas", Australia vs Indo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,10 +15,10 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=205|referrer=https://m.vi
 #http://mkctvnew.my.id/timnas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/rcti.m3u8
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 
