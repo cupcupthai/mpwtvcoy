@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700
 https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/timnas-u16-indonesia_20180929_223359.jpg" group-title="timnas", Australia vs Indo
