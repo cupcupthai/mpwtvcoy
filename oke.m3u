@@ -6,13 +6,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://why.biz.id/restream/assp1.m3u8|Referer=https://why.biz.id/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/timnas-u16-indonesia_20180929_223359.jpg" group-title="timnas", Australia vs Indo
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/10/10/2093676087.jpg" group-title="timnas", Indo vs Bahrain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Australia-vs-Timnas-Indonesia-Leg-2-matchday.jpg" group-title="timnas", Australia vs indo ch2
-#http://mkctvnew.my.id/timnas.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/10/10/2093676087.jpg" group-title="timnas", Indo vs Bahrain ch2
+http://mkctvnew.my.id/timnas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
 #KODIPROP:inputstream.adaptive.license_type=clearkey
