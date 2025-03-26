@@ -809,6 +809,14 @@ https://ythls.onrender.com/video/dHb-raVsofo.m3u8
 #EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-id="108.astro" group-title="Malaysia" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
+#KODIPROP:inputstream.adaptive.common_headers=X-Token=9d482c930e63904e15a252191316fb9e3365576f7a764c77782b564942513375383869444b654b6b7168624d534b2b42384c6769432f39637872513d
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+https://nanopi.rocket-tv.online/Astro_Citra/default_primary.mpd
+
 <============================== Brunei ======================================>
 
 #EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
