@@ -25,7 +25,8 @@ http://mpwtv.github.io/timnas.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
-http://mpwtv.github.io/bad.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=zvBmkJ9TEU8p4I5i1AcfV1bccxBwqr2Tp3N8rcj9&secret=e9ca71be20d71287d9b51aeba232817b&time=1736774881|Referer=https://kakotv.com/
 
 <==========National TV==========>
 
