@@ -14,6 +14,10 @@ http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=17938
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/yIltzknT49C-WoklkLFlJSXyE7Q=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5179995/original/061610300_1743687877-Piala_Asia_U-17_-_Korea_Selatan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",korsel vs indonesia u17
+http://mpwtv.github.io/timnas.m3u8
+
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
