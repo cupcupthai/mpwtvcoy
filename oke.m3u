@@ -241,7 +241,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 
 
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstar
-http://mpwtv.github.io/star.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referer=https://www.visionplus.id/
 
 
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstar 2
