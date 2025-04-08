@@ -19,6 +19,12 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_11.jpeg"group-title="Piala Asiau17",Piala Asia u17 ch2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0MzY4ODYyOCwiaWF0IjoxNzQzNjg4MDI4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMjdlNDRlZDQtYjczNS00NGVkLWI4ZWUtNDQ2OTUxYWY3YjAwIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTEzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.r1mABBGR5GE49-w04s9-yUDYUWqrAFp2T9nQyvNhH12VR43K0YFcOHUzlF8TN5L9nKHMX8vxpgfFhCEHAMQxmg
+https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
+
 
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
