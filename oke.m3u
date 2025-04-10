@@ -11,6 +11,16 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/nf4cd3x1tq/
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/iRR0GboX-tqU_KURgF_dli4CnMk=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5182809/original/060585100_1744106354-Piala_Asia_U-17_-_Afganistan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",Indonesia vs afganistan u17 ch2
+http://mpwtv.github.io/timnas.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/iRR0GboX-tqU_KURgF_dli4CnMk=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5182809/original/060585100_1744106354-Piala_Asia_U-17_-_Afganistan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",Indonesia vs afganistan u17 ch2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
+
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_11.jpeg"group-title="Piala Asiau17",Piala Asia u17
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
