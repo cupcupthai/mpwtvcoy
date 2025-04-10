@@ -12,7 +12,7 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/iRR0GboX-tqU_KURgF_dli4CnMk=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5182809/original/060585100_1744106354-Piala_Asia_U-17_-_Afganistan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",Indonesia vs afganistan u17 ch2
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/iRR0GboX-tqU_KURgF_dli4CnMk=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5182809/original/060585100_1744106354-Piala_Asia_U-17_-_Afganistan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",Indonesia vs afganistan u17 ch1
 http://mpwtv.github.io/timnas.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/iRR0GboX-tqU_KURgF_dli4CnMk=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5182809/original/060585100_1744106354-Piala_Asia_U-17_-_Afganistan_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg"group-title="Piala Asiau17",Indonesia vs afganistan u17 ch2
@@ -37,9 +37,7 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
+http://mpwtv.github.io/bad.m3u8
 
 <==========National TV==========>
 
@@ -276,11 +274,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
