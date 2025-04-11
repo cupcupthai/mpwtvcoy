@@ -14,10 +14,10 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_11.jpeg"group-title="Piala Asiau17",Piala Asia u17
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
