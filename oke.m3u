@@ -22,10 +22,10 @@ https://dusk.biz.id/rp/index.mpd?id=113
 
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=114
-https://dusk.biz.id/rp/index.mpd?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
 http://mpwtv.github.io/bad.m3u8
