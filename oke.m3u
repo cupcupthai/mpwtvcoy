@@ -7,10 +7,8 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
-https://dusk.biz.id/rp/index.mpd?id=113
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/oLzf2Wi3_mVMaKN5hMFG-xT7TEo=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5186031/original/018345800_1744535375-Piala_Asia_U-17_-_Timnas_Indonesia_U-17_Vs_Korea_Utara_copy.jpg"group-title="Piala Asiau17",Indonesia Vs Korea Utara CH1
 http://mpwtv.github.io/timnas.m3u8
