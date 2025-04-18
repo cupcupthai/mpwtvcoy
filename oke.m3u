@@ -220,10 +220,10 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.ytimg.com/vi/DCEScnMb9PY/sddefault.jpg",Star Sport Select1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd?n=yourmomgae
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9353
 
 
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstar
@@ -238,14 +238,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport3.png" group-title="Sports", SPORTSTARS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png",Sportstar 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
