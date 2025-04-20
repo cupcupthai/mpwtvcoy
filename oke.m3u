@@ -31,6 +31,12 @@ https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/02/996x664/proliga_320869d.jpg"group-title="feed", Proliga ch2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
 http://mpwtv.github.io/bad.m3u8
 
