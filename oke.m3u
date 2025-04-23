@@ -12,13 +12,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17624
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_11.jpeg"group-title="Piala Asiau17",Piala Asia u17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -230,14 +223,14 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9353
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstar
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstar 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png",Sportstar 4
