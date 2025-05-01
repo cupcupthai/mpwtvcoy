@@ -31,12 +31,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18252
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dq3rKUG4sSwGgQ1kYewLb0EuWrw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4249252/711019.jpg"group-title="feed", Bali United VS PSIS
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17623&type=dash
-
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
