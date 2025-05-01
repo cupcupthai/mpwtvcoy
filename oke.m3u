@@ -12,9 +12,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/2025_Sudirman_Cup_logo.png" group-title="BADMINTON", CH1
-http://mpwtv.github.io/bad.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/2025_Sudirman_Cup_logo.png" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
