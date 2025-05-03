@@ -151,17 +151,16 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2124563/8893/i/450/depositphotos_88939068-stock-photo-flag-of-uefa-champions-league.jpg"group-title="Sports", 7.#Liga Champion ch1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=123
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=123
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6685
 
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2124563/8893/i/450/depositphotos_88939068-stock-photo-flag-of-uefa-champions-league.jpg"group-title="Sports", 8.#Liga Champion ch2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=122
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=122
-
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/6vYhGjfmje1xVzKu06kYpJ_MAb0=/0x77:554x446/750x500/data/photo/2024/11/18/673ae1ad169d1.jpeg"group-title="Sports", 9.#Moto GP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
