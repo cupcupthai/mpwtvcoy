@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851': 'aa4cf56ce7c522a9e6582c42537be381
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
@@ -37,22 +37,16 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18252
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia ch2
-#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/02/996x664/proliga_320869d.jpg"group-title="feed", Proliga 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18234
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18234
-
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/02/996x664/proliga_320869d.jpg"group-title="feed", Proliga ch2
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://mpwtv.github.io/proliga.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
 #http://mpwtv.github.io/bad.m3u8
