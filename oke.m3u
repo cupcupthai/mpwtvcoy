@@ -6,10 +6,11 @@
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18234
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jG7lM35i8BZVVijzoxHzxUQ8UpA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-sudirman-cup-finals-2025-court-1-7d3c8b.jpg" group-title="BADMINTON", Indonesia VS Korsel
