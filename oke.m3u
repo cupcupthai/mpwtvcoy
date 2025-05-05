@@ -19,18 +19,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia ch2
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
-https://spectrum-cors-lim.kolorsempak.workers.dev/dash-wv/linear/5113/default_primary.mpd|X-Forwarded-For=85.237.215.255
-
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/02/996x664/proliga_320869d.jpg"group-title="feed", Proliga 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18234
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18234
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/33/0d/30330d87a6dfbb86b2b879c84151726e.jpg"group-title="feed", Badminton
 #http://mpwtv.github.io/bad.m3u8
 
