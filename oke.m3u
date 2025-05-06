@@ -133,16 +133,20 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2124563/8893/i/450/depositphotos_88939068-stock-photo-flag-of-uefa-champions-league.jpg"group-title="Sports", 7.#Liga Champion ch1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6685
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2124563/8893/i/450/depositphotos_88939068-stock-photo-flag-of-uefa-champions-league.jpg"group-title="Sports", 8.#Liga Champion ch2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/6vYhGjfmje1xVzKu06kYpJ_MAb0=/0x77:554x446/750x500/data/photo/2024/11/18/673ae1ad169d1.jpeg"group-title="Sports", 9.#Moto GP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
