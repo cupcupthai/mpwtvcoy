@@ -6,10 +6,12 @@
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=114
-https://dusk.biz.id/rp/index.mpd?id=114
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Yh8e9fs8xJUffZ1YbqRpwWR6K7s=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18250/yonex-taipei-open-2025-qualifiers-r32-court-2-cover-742ebb.jpg" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
