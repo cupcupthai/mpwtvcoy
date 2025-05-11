@@ -17,14 +17,6 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
-#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oynDOJ5za-eBeyp4AeoaDsnmPyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275211/945fbf.jpg"group-title="feed", Persebaya vs semen padang
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
@@ -34,7 +26,12 @@ https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u
 https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg"group-title="feed", Proliga
-http://iptvtree.net:8080/F25093/29838750/298550
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
 
 <==========National TV==========>
 
