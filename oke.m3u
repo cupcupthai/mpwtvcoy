@@ -29,9 +29,7 @@ https://liveplay.camel4.live/live/sd-6MsDBFWcxNv1D4UCFZ.flv?txSecret=d971e21da67
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg"group-title="feed", Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18234
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18234
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
 
 <==========National TV==========>
 
