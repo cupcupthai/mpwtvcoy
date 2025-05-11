@@ -10,7 +10,7 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg" group-title="BADMINTON", COURT 2B
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg" group-title="BADMINTON", Final China Taipe Open
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
