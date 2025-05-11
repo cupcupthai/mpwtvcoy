@@ -14,7 +14,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="feed", Liga indonesia
