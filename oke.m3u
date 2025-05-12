@@ -17,7 +17,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oynDOJ5za-eBeyp4AeoaDsnmPyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4275211/945fbf.jpg"group-title="feed", Persebaya vs semen padang
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -31,7 +31,7 @@ https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
+#https://av-cdn.rakuda.online:8443/memfs/bf2e7bf9-d57f-4cad-a438-7a53990a2ddc.m3u8
 
 
 <==========National TV==========>
