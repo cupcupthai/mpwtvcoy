@@ -58,25 +58,25 @@ https://av-cdn.rakuda.online:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u
 <==========National TV==========>
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=1
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=3
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=3
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=2
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=2
 
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=4
 
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
