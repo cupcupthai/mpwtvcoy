@@ -237,9 +237,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 1.#True Vision
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Sports",True Tennis
