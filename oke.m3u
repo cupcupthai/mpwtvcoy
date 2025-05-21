@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
-https://colloriptvpro.my.id/scc/lalat.m3u8?id=Sky_Sports_Premier_League
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN-avc1.m3u8
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nqs5zROY6p2uKem2K5BFCUVVxsU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2025-qualifiers-round-of-32-court-1-6b649b.jpg" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
