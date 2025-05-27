@@ -9,29 +9,29 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nqs5zROY6p2uKem2K5BFCUVVxsU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2025-qualifiers-round-of-32-court-1-6b649b.jpg" group-title="BADMINTON", COURT 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPouM59-mf4OwU2gwvilx5pBHEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2025-round-of-32-court-1-4801e6.jpg" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nqs5zROY6p2uKem2K5BFCUVVxsU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2025-qualifiers-round-of-32-court-1-6b649b.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPouM59-mf4OwU2gwvilx5pBHEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2025-round-of-32-court-1-4801e6.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nqs5zROY6p2uKem2K5BFCUVVxsU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2025-qualifiers-round-of-32-court-1-6b649b.jpg" group-title="BADMINTON", COURT 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPouM59-mf4OwU2gwvilx5pBHEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2025-round-of-32-court-1-4801e6.jpg" group-title="BADMINTON", COURT 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18252&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nqs5zROY6p2uKem2K5BFCUVVxsU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2025-qualifiers-round-of-32-court-1-6b649b.jpg" group-title="BADMINTON", COURT 4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPouM59-mf4OwU2gwvilx5pBHEQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kff-singapore-badminton-open-2025-round-of-32-court-1-4801e6.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18253&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18253&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia
