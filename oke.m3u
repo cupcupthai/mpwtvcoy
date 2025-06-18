@@ -12,12 +12,13 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2024/07/2025-FIFA-CLUB-WORLD-CUP.png", Fifa world Cup Club ch1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2024/07/2025-FIFA-CLUB-WORLD-CUP.png", Fifa world Cup Club ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dca-co-live-gcr.gcdn.co/18fadgjxhc6qd1jxe5j3a8xbf9/tv25f/stream.mpd?channel=2650&outlet=dazn-row&plang=en
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2024/07/2025-FIFA-CLUB-WORLD-CUP.png", Fifa world Cup Club ch3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
