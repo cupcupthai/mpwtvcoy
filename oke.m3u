@@ -26,19 +26,19 @@ https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+https://red.openwindows038.workers.dev/play.mpd?id=18249&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
+https://red.openwindows038.workers.dev/play.mpd?id=18250&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg" group-title="BADMINTON", COURT 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18252&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
+https://red.openwindows038.workers.dev/play.mpd?id=18252&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jPYa_8OKzav7Oyyyq_m3alvq5Zg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2025-round-of-32-court-1-536f15.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
