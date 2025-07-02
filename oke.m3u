@@ -18,6 +18,9 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=18994&type=drm
 https://red.openwindows038.workers.dev/play.mpd?id=18994&type=dash
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WNSCGz2H0Aimisrw85FJYcS8imM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4388993/2fcd78.jpg" group-title="AFC WOMAN", INDO VS PAKISTAN CH2
+http://line.4k-beast.co:80/live/0C364711D336553/hIsWCNe1zd/1505849.ts
+
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2024/07/2025-FIFA-CLUB-WORLD-CUP.png", Fifa world Cup Club ch1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
