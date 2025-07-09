@@ -17,6 +17,7 @@ http://live.golivenow71.com/8654843f6f7940b7f7ff966bffdc0a5f/1751999736370/vg4b6
 
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/06/15/logo-piala-presiden-2025-1749988854258_169.jpeg" group-title="FEEDBRO", PIALA PRESIDEN CH2
+#EXTVLCOPT:http-origin=https://6wcp.github.io/
 #EXTVLCOPT:http-referrer=https://6wcp.github.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://104.26.9.236/live.m3u8
