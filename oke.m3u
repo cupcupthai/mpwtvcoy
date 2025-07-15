@@ -12,15 +12,15 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/06/15/logo-piala-presiden-2025-1749988854258_169.jpeg" group-title="FEEDBRO", PIALA PRESIDEN
-http://live.golivenow71.com/8654843f6f7940b7f7ff966bffdc0a5f/1751999736370/vg4b678/index.m3u8|referer=https://xoilac.plcdn.xyz/	
+#EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/06/15/logo-piala-presiden-2025-1749988854258_169.jpeg" group-title="FEEDBRO", PIALA PRESIDEN CH2
-#EXTVLCOPT:http-origin=https://6wcp.github.io/
-#EXTVLCOPT:http-referrer=https://6wcp.github.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://104.26.9.236/live.m3u8
+#EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2024/07/2025-FIFA-CLUB-WORLD-CUP.png", Fifa world Cup Club ch1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
