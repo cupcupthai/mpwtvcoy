@@ -35,12 +35,6 @@ https://hotlivezz179026907.akainu.xyz/sspPdookoIBN644X48Td8g/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=dash
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
