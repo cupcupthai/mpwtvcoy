@@ -34,13 +34,13 @@ https://hotlivezz179026907.akainu.xyz/sspPdookoIBN644X48Td8g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 1 A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-https://halu.serv00.net/satu.mpd?id=18249&type=dash
+#https://halu.serv00.net/satu.mpd?id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 2
@@ -61,6 +61,36 @@ https://halu.serv00.net/satu.mpd?id=18249&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", LIVE VNL 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", LIVE VNL 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 4
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6786&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6685&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
 
 #EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
