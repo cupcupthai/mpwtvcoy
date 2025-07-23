@@ -30,32 +30,32 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 https://live-xlvb.nsnd.live/lJ2Wv8FqnVk88AXe9TtIbw/adb8de5045254f4388ff92b08aeba831/1753121840/live/_definst_/stream_1_1bda7@nuiFHD/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
 #https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 1 A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-#https://halu.serv00.net/satu.mpd?id=18249&type=dash
+https://halu.serv00.net/satu.mpd?id=18249&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
-#https://halu.serv00.net/satu.mpd?id=18250&type=dash
+https://halu.serv00.net/satu.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252&type=drm
-#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252&type=dash
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ypqmr--0t8N-0XoJQ2VhYLrzn04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-16-court-1-c175f0.jpg" group-title="BADMINTON", COURT 4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
