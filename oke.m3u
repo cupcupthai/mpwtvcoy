@@ -24,10 +24,10 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18037
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+https://live-xlvb.nsnd.live/hjUUFdnzi4zm_t2CY_EPbg/adb8de5045254f4388ff92b08aeba831/1753209608/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
 
 
 
