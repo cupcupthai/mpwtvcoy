@@ -31,30 +31,30 @@ https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 1 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
-#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ckBandel2
-#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
+https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bandeltv.xyz/all_ck/ckBandel2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#https://halu.serv00.net/satu.mpd?id=18252
+https://halu.serv00.net/satu.mpd?id=18252
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9H6Q3RUVa8JGRHfWlTZCPtmmteE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2025-round-of-32-court-1-040edd.jpg" group-title="BADMINTON", COURT 4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
 #EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
