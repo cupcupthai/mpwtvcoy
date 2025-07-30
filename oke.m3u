@@ -12,21 +12,6 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-#EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
-
-#EXTINF:-1 group-title="AFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://shrill-lake-bb62.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
 
 
 
