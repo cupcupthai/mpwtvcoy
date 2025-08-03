@@ -27,13 +27,13 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ckBandel2
-https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
+#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bandeltv.xyz/all_ck/ckBandel2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18252
+#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18252
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
