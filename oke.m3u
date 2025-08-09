@@ -41,9 +41,14 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
-#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia (LIVE ONLY)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m5l2/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m5l3/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m5l4/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m5l5/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m4l1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/12/PXL_20210812_090543533.jpg"group-title="feed", Liga Indonesia ch2
