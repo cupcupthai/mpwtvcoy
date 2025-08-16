@@ -50,7 +50,10 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU"group-title="feed", LIGA BRI++ (AKTIF SAAT LIVE)
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19354&type=drm
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19354&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU"group-title="feed", LIGA BRI++1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
