@@ -267,10 +267,12 @@ https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 1.#True Vision
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Sports",True Tennis
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
