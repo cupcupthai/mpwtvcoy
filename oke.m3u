@@ -28,6 +28,12 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 https://spacetv.my.id/index.mpd?id=19367&type=dash
 
 
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.aiscore.com/
+https://twnx3-cf.boblcfwudz421.com/auth%3D2d7de633951be552eab1a4e11ff337e2feadd0e16b04a06d2fc45a06a181bad551a2bdc7c1a408f7ae908333019ab1b34a32c65b334569a963b7802b2eda0b9c46e84e06e592ffeb564a847434761fe8e1d7fa3026196ab5bddbb9fe004f0de277565c68f9aa2ab3a1c48e57ff3e184d1f838184b1cb5a925ff21bec0dafb2e8d4010d0c3e5c32af46bc696007f250c9aaa867952e4a77e30579c744c6b5545e9713ec74cb40ece18bce884ce0d5bf41%26cid%3DFlq8eSo72psXwwlCN8BrY250605%26_v%3D2%26_r%3Diif4Kx%26_vis%3D7401a534304f2915e3b1db43583cb5280c0d925794e4ee9e27d7b82626ceb02c%26_vvs%3De56eb3cac51fd97f004dc4c9b6477e79e8a1137d5956048e540b2e30d77878c8/transcode/c365405_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
