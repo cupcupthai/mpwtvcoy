@@ -18,8 +18,8 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNASU17", TIMNAS VS MALI CH 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19367&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19367&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19367&type=drm
+https://spacetv.my.id/index.mpd?id=19367&type=dash
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNASU17", TIMNAS VS MALI CH 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -27,6 +27,11 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19367&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash 
 
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNASU17", TIMNAS VS MALI CH 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19367&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19367&type=dash
 
 
 
@@ -56,13 +61,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -70,7 +70,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=dash
 #EXTVLCOPT:http-reconnect=true
 https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH3 ( SAAT LIVE)
+#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19354&type=drm
