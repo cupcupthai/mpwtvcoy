@@ -19,21 +19,7 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash 
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNASU17", TIMNAS VS MALI CH 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19367&type=drm
-https://spacetv.my.id/index.mpd?id=19367&type=dash
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNASU17", TIMNAS VS MALI CH 3
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-https://twnx3-cf.boblcfwudz421.com/auth%3D94356bdbf70d69a541b7d44050e9ee870db20d54676faa9ea696ccfcb089e66edcccc22dea4a4e1958f72ed77ad2450520d836d766cb43a42f449038955da44a143cc411f2a464419a97b38910081efe3956a42316f4a1c9cedfdad7e5766ff25c4d41521fd26f8bb4ddd2e343d3df974205e48c313d0810c458d0e6314f653d840ea9ab9f6cd830106c0328e364e77e718704970b28b536d430a431c72ed112%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3D0e6lPP%26_vis%3D1c9cf11dd0833e932ecd34cfa4158aab79c8bcf71d188bf203cc53f23a8b5c78%26_vvs%3D10c0d5ae7b14f8a0e80d3c96270e6024dfb9a2650c5db8b1cada2c52dec5fe96/transcode/c365405_480p.m3u8
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
