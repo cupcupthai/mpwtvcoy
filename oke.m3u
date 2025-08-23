@@ -325,6 +325,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  Liga 1(AKTIF SAAT LIVE)
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
