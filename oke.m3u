@@ -71,6 +71,11 @@ https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
+#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH3 ( SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=dash
 
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 19:00 WIB Tunisia vs Indonesia 
