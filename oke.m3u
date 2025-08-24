@@ -14,17 +14,11 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/ABUtQbZLrAYw_YHMSOCkXKNC4VQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19406/asean-u16-girls-mandiri-championship-2025-db1f8a.jpg" group-title="AFF U16", 19.00 INDO VS MALAY CH1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
-https://spacetv.my.id/index.mpd?id=19406&type=dash
-
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/ABUtQbZLrAYw_YHMSOCkXKNC4VQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19406/asean-u16-girls-mandiri-championship-2025-db1f8a.jpg" group-title="AFF U16", 19.00 INDO VS MALAY CH2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash 
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 1 
@@ -52,6 +46,17 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
+#EXTINF:-1 group-title="FIVB Men's U21" tvg-logo="https://thumbor.prod.vidiocdn.com/WSBHkSk_cOCp0FWoDzcpyJtkXx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514048/9c4203.jpg",19:00 Argentina vs Indonesia
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19412&type=drm
+https://spacetv.my.id/index.mpd?id=19412&type=dash
+
+#EXTINF:-1 group-title="FIVB Men's U21" tvg-logo="https://thumbor.prod.vidiocdn.com/WSBHkSk_cOCp0FWoDzcpyJtkXx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514048/9c4203.jpg",19:00 Argentina vs Indonesia ch2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19412&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19412&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
@@ -341,44 +346,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA  (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 1 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/bachlongmasd1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 2 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 3 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 4 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 5 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://chcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 6 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 7 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 8 (AKTIF SAAT LIVE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l3/playlist.m3u8
 
 
 
