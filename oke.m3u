@@ -29,8 +29,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/ABUtQbZLrAYw_YHMSOCkXKNC4VQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19406/asean-u16-girls-mandiri-championship-2025-db1f8a.jpg" group-title="AFF U16", 19.00 INDO VS MALAY CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19406&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19406&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
