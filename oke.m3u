@@ -46,18 +46,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
-#EXTINF:-1 group-title="FIVB Men's U21" tvg-logo="https://thumbor.prod.vidiocdn.com/WSBHkSk_cOCp0FWoDzcpyJtkXx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514048/9c4203.jpg",19:00 Argentina vs Indonesia
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19412&type=drm
-https://spacetv.my.id/index.mpd?id=19412&type=dash
-
-#EXTINF:-1 group-title="FIVB Men's U21" tvg-logo="https://thumbor.prod.vidiocdn.com/WSBHkSk_cOCp0FWoDzcpyJtkXx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4514048/9c4203.jpg",19:00 Argentina vs Indonesia ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19412&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19412&type=dash
-
 #EXTINF:-1  group-title="BADMINTON" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF World Championships CH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
