@@ -58,11 +58,23 @@ https://spacetv.my.id/index.mpd?id=19412&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19412&type=drm
 https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19412&type=dash
 
-#EXTINF:-1 group-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" 
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="LIVE | Event World", BULUTANGKIS 1
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Bulutangkis1.m3u8
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="LIVE | Event World", BULUTANGKIS 2
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Bulutangkis2.m3u8
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF World Championships CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF World Championships CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF World Championships CH3
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
+https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
