@@ -14,6 +14,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://thumbor.prod.vidiocdn.com/sI1eEGRGIy5QG_tpS-sVQKTVlqw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4527448/62a0d7.jpg", Indonesia vs Australia
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
+https://spacetv.my.id/index.mpd?id=19406&type=dash
+
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/ABUtQbZLrAYw_YHMSOCkXKNC4VQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19406/asean-u16-girls-mandiri-championship-2025-db1f8a.jpg" group-title="AFF U16", 19.00 INDO VS MALAY CH2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
