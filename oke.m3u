@@ -62,8 +62,8 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
