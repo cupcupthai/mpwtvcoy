@@ -17,15 +17,15 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19486&type=dash 
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19497&type=drm
+https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABATAN", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19486&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="AFC U23", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
