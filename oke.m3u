@@ -44,7 +44,7 @@ http://mpwtv.github.io/indosiar.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbdeef219aff3d45955873788eca403e:2fa691b352b107152083ca3cf8244b0b
+#KODIPROP:inputstream.adaptive.license_key=e534a77ab7314601b601061897609d44:06ef9049e2fb42ce850c2486a4aae0b4
 https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_50_47_8cb87bbb-03bc-49ee-95d5-6593be7484d4/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/lrgDeZVSNcfnhcMzkvhqLWdWxcQ=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4539920/5c96fb.jpg" group-title="AFC U23", 19.00 INDO VS LAOS CH2
