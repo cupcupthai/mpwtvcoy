@@ -30,29 +30,18 @@ https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/vhDoWy9N1-eH2Q3pczjYC8hd1xI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="AFC U23", 18.30 INDO VS MACAU CH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://xl365.plcdn.xyz
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=ea40c25d48e8e70b54314457f6e2f832&wsABSTime=1756917411
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/vhDoWy9N1-eH2Q3pczjYC8hd1xI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="AFC U23", 18.30 INDO VS MACAU CH2
-http://mpwtv.github.io/indosiar.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/vhDoWy9N1-eH2Q3pczjYC8hd1xI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="AFC U23", 18.30 INDO VS MACAU CH3
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
+#https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/vhDoWy9N1-eH2Q3pczjYC8hd1xI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="AFC U23", 18.30 INDO VS MACAU CH4
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/vhDoWy9N1-eH2Q3pczjYC8hd1xI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="AFC U23", 18.30 INDO VS MACAU CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+#https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/lrgDeZVSNcfnhcMzkvhqLWdWxcQ=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4539920/5c96fb.jpg" group-title="AFC U23", 19.00 INDO VS LAOS CH2
@@ -87,23 +76,19 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
 
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH1 ( SAAT LIVE)
-#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-referrer=https:https://rakuda.infosport.web.id/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://av-cdn.rkda.my.id:8443/memfs/87cafbdb-78a4-4b73-a52a-af58f4b42800.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH3 ( SAAT LIVE)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/index.mpd?id=19385&type=drm
-https://spacetv.my.id/index.mpd?id=19385&type=dash
+#https://spacetv.my.id/index.mpd?id=19385&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg"group-title="feed", Proliga
