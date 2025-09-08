@@ -15,22 +15,19 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_02_bd3bd135-5652-49ae-a55f
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/8zG7uXtqLe1vGwH5QNDI5IEQh5I=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="PERSAHABTAN", 20.30 INDO VS LEBANON CH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://tfoz3gr5dgmttgha1hcto8yzdnctwfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/8zG7uXtqLe1vGwH5QNDI5IEQh5I=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="PERSAHABTAN", 20.30 INDO VS LEBANON CH2
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF5Lg/1757181358701/live/dungSD/chunklist.m3u8
+#https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF5Lg/1757181358701/live/dungSD/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/8zG7uXtqLe1vGwH5QNDI5IEQh5I=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="PERSAHABTAN", 20.30 INDO VS LEBANON CH3
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/56/56.m3u8
+#http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
