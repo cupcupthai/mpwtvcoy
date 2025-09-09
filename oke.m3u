@@ -36,7 +36,7 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#http://103.179.182.117:6768/hls/56/56.m3u8
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/UPn7GooKGQKlAwFXISpeMy_x16M=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542920/8b0325.jpg" group-title="AFC U23", 18.30 INDO VS KOREA CH2
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
@@ -44,7 +44,7 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-#https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
+https://av-cdn.rkda.my.id:8443/memfs/4bc5fbd4-17f6-4d92-856c-ac395f620af5.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/UPn7GooKGQKlAwFXISpeMy_x16M=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542920/8b0325.jpg" group-title="AFC U23", 18.30 INDO VS KOREA CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
