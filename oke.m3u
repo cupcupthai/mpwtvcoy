@@ -40,10 +40,8 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
 
 #EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON", COURT 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s9x.hellotherepadawan.org:9310/v5/edlzVOnS-TpKT-U_jEzuvg/1756707756/eb79b2290aed13cdd693ebbf408b324d/uQxTPaRHnBl4KtCIcuXEQQ/1756718436/live/vx-origin/my-astro-badminton2_480/playlist.m3u8
 
 
 
