@@ -41,24 +41,25 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
 #https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 1 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON", COURT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ckBandel2
-https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
+#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bandeltv.xyz/all_ck/ckBandel2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18252
+#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18252
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
