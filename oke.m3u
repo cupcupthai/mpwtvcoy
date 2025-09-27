@@ -59,10 +59,10 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON", COURT 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-#https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 2
