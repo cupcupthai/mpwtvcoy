@@ -33,47 +33,11 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/UPn7GooKGQKlAwFXISpeMy_x16M=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542920/8b0325.jpg" group-title="AFC U23", 18.30 INDO VS KOREA CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-#https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-#EXTINF:-1 group-title="VDO LIVE (updated 27 Sep 2025 11:54 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/0bR6qWAwfzGrBRdIR_fvcmh7emQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4599467/3809a7.jpg",🔴(27 Sep 2025 09:00 WIB) Alwi Farhan (INA) vs Jonatan Christie (INA) - Men's Singles Semifinal | SUWON VICTOR Korea Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
-
-#EXTINF:-1 group-title="VDO LIVE (updated 27 Sep 2025 11:54 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/SQHzZXJxhrLi-pnj-R3Bcb-bYcM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4599462/eee035.jpg",🔴(27 Sep 2025 11:30 WIB) Feng Yan Zhe/Huang Dong Ping (CHN) vs Amri Syahnawi/Nita Violina Marwah (INA) - Mixed Doubles Semifinal | SUWON VICTOR Korea Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18250&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18250&type=dash
-
-#EXTINF:-1 group-title="VDO LIVE (updated 27 Sep 2025 11:54 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/1apsy9Clleatz2yUKWfM5SI2WsY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4599471/fe9830.jpg",(27 Sep 2025 15:00 WIB) Lee Jhe-Huei/Yang Po-Hsuan (TPE) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Semifinal | SUWON VICTOR Korea Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
-
-#EXTINF:-1 group-title="VDO LIVE (updated 27 Sep 2025 11:54 WIB)" tvg-logo="https://thumbor.prod.vidiocdn.com/Chnbnlf57_GyiM5oqoNQiveFFUY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4599469/9b2a3e.jpg",(27 Sep 2025 16:00 WIB) Putri Kusuma Wardani (INA) vs Akane Yamaguchi (JPN) - Women's Singles Semifinal | SUWON VICTOR Korea Open 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18249&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON",CH1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/02_sport7_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 2
