@@ -72,10 +72,10 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_3953051_1.m3u8?hls_ctx=o590386k&sign=OOzJcYF0p8VKdlSOJgrAEjJU02yGvVOwMWWltxZ9xIfHOQe-qAZMnn0XKIyMkwVgitSa89vVG2ixLvw6az6g2CDR0Lmu6SzcZqaLqjgmnSZqBvMHax5jxhjHmH88ZwSV0WLP0Ffd2GJ9_RNZBokxoV1Uh1-BBe6OG6IwQipZdZqkhRImrNmBNDZOxd9rVGX8p94Zy4tqYPFWf7dorD11sAnNBV_-_7ARdL2MwkGv2EAP7DXEq7-iL0DfdNpeO4I0SxRyVb6xkiWd3JDUNQFwME-d1IsPMNfkTg6-8rARRcemw3mFtd8SWsF4YGO9EwaMfDS_i6hXykmXJYVq4312Iw&timestamp=1758974982226
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
