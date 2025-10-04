@@ -65,9 +65,10 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001759552863-0-0-505dacddb59e7fe65547fb12a4b09491
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel27.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 
 
 
