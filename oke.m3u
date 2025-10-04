@@ -335,11 +335,10 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
 
 #EXTINF:-1 tvg-name="ID:HBO" tvg-id="HBO.id" group-title="HBO" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",#HBO
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/27/27.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="HBO",HBO HiTS
