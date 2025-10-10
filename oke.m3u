@@ -15,7 +15,10 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/manifest.mpd
 #EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
-
+#EXTINF:-1 group-title="EVENT 10/OKTOBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5jlaaELlQstjyL3tlxan6YQjm-zIDol-ZiQawgLBUg&s", 20:00 WIB INDONESIA U23 VS INDIA U23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel66.flv?auth_key=3000001760089106-0-0-d88d60f5ef9878ae028a74ab4ac3bf7b
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://www.football5star.net/wp-content/uploads/2025/10/Prediksi-PPD-2026-Indonesia-vs-Arab-Saudi.jpg" group-title="KUALIFIKASI PIALADUNIA", 00.30 INDO VS ARAB SAUDI Ch1
 #EXTVLCOPT:http-user-agent=android-R+
