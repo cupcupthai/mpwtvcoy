@@ -17,13 +17,13 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 00.30 INDO VS IRAQ Ch1
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 02.30 INDO VS IRAQ Ch1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 00.30 INDO VS IRAQ Ch2
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 02.30 INDO VS IRAQ Ch2
 http://mpwtv.github.io/timnas.m3u8
 
 
