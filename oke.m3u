@@ -22,10 +22,13 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 02.30 INDO VS IRAQ Ch2
 http://mpwtv.github.io/timnas.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://linggaupos.bacakoran.co/upload/cde7d33f434323308cd938fa11d9871c.jpg" group-title="KUALIFIKASI PIALADUNIA", 02.30 INDO VS IRAQ Ch3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib1NGaUZnY2dhaHQvb3QvbHh3TE9Ic3VmR2FYYnlFY004anRQQ3M9/master.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
