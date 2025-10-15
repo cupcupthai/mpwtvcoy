@@ -16,11 +16,6 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/manifest.mpd
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 
-#EXTINF:-1 group-title="EVENT 13/OKTOBER/2025" tvg-logo="https://thumbor.prod.vidiocdn.com/xc-YUf6lhNDDYgSfVoM0ivYV-ro=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/33402/india-vs-indonesia-908cff.jpg", 20:00 WIB Indonesia U23 vs India U23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9a3608b2310f&wsABSTime=1760377178
-
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -31,30 +26,34 @@ https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9
 
 
 
-#EXTINF:-1 tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2025/09/16/link_live_streaming_china_master_2025.jpg" group-title="BADMINTON", COURT 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=dash
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4bSGD2FiyRDfhrgM7CcXiSsqbaI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2025-round-of-32-court-1-1066d8.jpg" group-title="BADMINTON", COURT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ckBandel2
-#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18250
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xZcCApHQubV7YDs41iUovE5sONk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-hong-kong-open-2025-round-of-16-court-1-8638f6.jpg" group-title="BADMINTON", COURT 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://bandeltv.xyz/all_ck/ckBandel2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#https://bandeltv.xyz/sc/2025/vidio/new/dash.php/.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jd-QU_CJ5QeK9yEnpX0NpwgbeOs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2025-qualifiers-r32-court-1-a63d7d.jpg" group-title="BADMINTON", COURT 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
+
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4bSGD2FiyRDfhrgM7CcXiSsqbaI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2025-round-of-32-court-1-1066d8.jpg" group-title="BADMINTON", COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18250&type=dash
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4bSGD2FiyRDfhrgM7CcXiSsqbaI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2025-round-of-32-court-1-1066d8.jpg" group-title="BADMINTON", COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
+
+
 
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI
