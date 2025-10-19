@@ -229,10 +229,9 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://www.ligaolahraga.com/storage/images/news/2024/07/04/rilis-serie-a-enilive-jadwal-pertandingan-liga-italia-resmi-dirilis.jpg" group-title="Sports",4.#SERI A 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Sports", UFC live
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
