@@ -17,6 +17,9 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 
 
+#EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 17:00 WIB Denmark Open Final
+https://677c74065edbda568d0d054872c9f16b.v.smtcdns.net/play.cbalive.weibisai.com/live/4030024684888061_AiSD.m3u8?txSecret=e2ce5811946efcc8d0f28f95bb807d4a&txTime=68F5EC00
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -32,7 +35,7 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
+#https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
 
 
