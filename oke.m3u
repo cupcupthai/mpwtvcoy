@@ -25,6 +25,11 @@ https://677c74065edbda568d0d054872c9f16b.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
+#EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:30 WIB Liverpool vs Manchester United
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -267,7 +272,9 @@ http://playlivesports.monster/live/foot2/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 2.#USA
-http://mpwtv.github.io/inggris.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 1.#True Vision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
