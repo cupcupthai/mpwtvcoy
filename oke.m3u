@@ -13,28 +13,6 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 
 
-#EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 17:00 WIB Denmark Open Final
-https://677c74065edbda568d0d054872c9f16b.v.smtcdns.net/play.cbalive.weibisai.com/live/4030024684888061_AiSD.m3u8?txSecret=e2ce5811946efcc8d0f28f95bb807d4a&txTime=68F5EC00
-
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 19/OKTOBER/2025" , 17:30 WIB Como vs Juventus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
-#EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:30 WIB Liverpool vs Manchester United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PWwzjeZy-yFRj8qmX5bFq9VuTYk=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543774/81efdd.jpg" group-title="PERSAHABTAN", 20.30 INDO VS CHINA TAIPE CH2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbdeef219aff3d45955873788eca403e:2fa691b352b107152083ca3cf8244b0b
-#https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_58_1621ba90-af7f-49d6-be13-efa07d52c2cf/PROD_CMAF_CENC/index-dash.mpd
-
-
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4bSGD2FiyRDfhrgM7CcXiSsqbaI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2025-round-of-32-court-1-1066d8.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
