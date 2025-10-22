@@ -17,8 +17,8 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=18249&type=drm
-https://vidd.semar.my.id/vidreq.php?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
 
 
