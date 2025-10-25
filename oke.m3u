@@ -186,8 +186,10 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/2124563/8893/i/450/depositphotos_88939068-stock-photo-flag-of-uefa-champions-league.jpg"group-title="Sports", 8.#Liga Champion ch2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
+
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/6vYhGjfmje1xVzKu06kYpJ_MAb0=/0x77:554x446/750x500/data/photo/2024/11/18/673ae1ad169d1.jpeg"group-title="Sports", 9.#Moto GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
