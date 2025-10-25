@@ -205,6 +205,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
 https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SERI A - 2" tvg-logo="https://www.ligaolahraga.com/storage/images/news/2024/07/04/rilis-serie-a-enilive-jadwal-pertandingan-liga-italia-resmi-dirilis.jpg" group-title="Sports",4.#SERI A CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|referer=https://webtv.sk/tv/
+
+
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Sports", UFC live
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
