@@ -39,7 +39,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
 
 
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI
+#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI Saat Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
@@ -51,6 +51,12 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19354&type=drm 
 https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
+
+#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net
+https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13457963&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1761468737&key=VTJGc2RHVmtYMS96WXoybk8wQ0dUSmk3UWJXeUFUOFMxVnZTdmVBbFY3K3Izdm5SVUZwKzZ0R3haZmVQS0NvUHZWM0pLc3BaNVNPK3BnbCtKdHVNdHVCY0RaOHdBMldXUjJKUE9xckYzeXdqZktrM3FPVVJFc3ZSdUQzaGdQek1MVzVibTlvZDc4NHBVODhnSkw0cTB5VENiVlVrdU9MU3pZdGZmempxbFhuNVNhU25CNzBqRTQya0lKTkNSTHJNVWJjeTV0UWxTMzNtd0pRUmhNYnNIQT09
+
 
 
 
