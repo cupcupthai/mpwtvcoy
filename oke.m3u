@@ -10,6 +10,48 @@ https://pre2tott.cachefly.net/pre2tot/index.m3u8
 http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persib Bandung
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persib Bandung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703
+https://shorter.me/a4nAN
+
+=======================================
+=======================================
+==============LIGA INGGRIS=============
+=======================================
+#https://i.ibb.co.com/twxFhvBY/PLE.png
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Burnley vs Arsenal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="EVENT 1/NOVEMBER/2025",22:00 WIB Nottingham Forest vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Fulham vs Wolverhampton Wanderers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703
+
+#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Crystal Palace vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=3692432a59c261ddbbfa5042d75387ac&wsABSTime=1759596274
+
+
+
 
 
 
