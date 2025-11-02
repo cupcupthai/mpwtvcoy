@@ -6,8 +6,8 @@ https://pre2tott.cachefly.net/pre2tot/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilatlive.co/
-http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
 
 
@@ -96,13 +96,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19354&type=drm 
 https://vidd.semar.my.id/koneksi.php?id=19354&type=dash
-
-#EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg"group-title="LIGA INDO", LIGA BRI CH2 ( SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net
-https://edg00.smytdryt.live/917395911_channel2/multy.m3u8?match_id=13457963&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1761468737&key=VTJGc2RHVmtYMS96WXoybk8wQ0dUSmk3UWJXeUFUOFMxVnZTdmVBbFY3K3Izdm5SVUZwKzZ0R3haZmVQS0NvUHZWM0pLc3BaNVNPK3BnbCtKdHVNdHVCY0RaOHdBMldXUjJKUE9xckYzeXdqZktrM3FPVVJFc3ZSdUQzaGdQek1MVzVibTlvZDc4NHBVODhnSkw0cTB5VENiVlVrdU9MU3pZdGZmempxbFhuNVNhU25CNzBqRTQya0lKTkNSTHJNVWJjeTV0UWxTMzNtd0pRUmhNYnNIQT09
-
-
 
 
 
@@ -298,8 +291,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 3.#Star Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+#EXTVLCOPT:http-referrer=https://kilatlive.co/
+http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8
 
 
 
