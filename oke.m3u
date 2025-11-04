@@ -14,8 +14,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19786&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19786&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 1 
