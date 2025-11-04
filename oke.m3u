@@ -19,7 +19,7 @@ https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcH
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=424EKsfJFusVFCDE4idBjd5Tr8ejzlnUdGaSSfOyqfBefcGBrLxpVm-bCq2zNouG173jIzQSPxXa6N5MHjX_k5LP1tA-9kTaU37mXP84yJo=
 #https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 1 
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/images/Korea-Masters-2025.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -28,15 +28,15 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/images/Korea-Masters-2025.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=18250&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18250&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 3
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/kalteng/foto/bank/images/Korea-Masters-2025.jpg" group-title="BADMINTON", COURT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
