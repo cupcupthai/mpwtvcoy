@@ -17,13 +17,10 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia CH2
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=424EKsfJFusVFCDE4idBjd5Tr8ejzlnUdGaSSfOyqfBefcGBrLxpVm-bCq2zNouG173jIzQSPxXa6N5MHjX_k5LP1tA-9kTaU37mXP84yJo=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
