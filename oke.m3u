@@ -11,11 +11,21 @@ http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tra
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia CH1
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia CH2
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19786&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cl0MRHB4eEtwFPO0tlNYx3KoN9c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-qualifiers-round-of-32-court-1-dafa25.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
