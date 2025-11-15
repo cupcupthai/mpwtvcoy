@@ -10,6 +10,9 @@ https://o4.sundaytueday.store/usa-beinlaliga.m3u8?auth_key=1758980546-3fcb0d0992
 #EXTVLCOPT:http-referrer=https://kilatlive.co/
 http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/43sg0fJwoDMjoZjkZSOOBqKbypE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5408224/original/055126700_1762766236-InShot_20251110_160047081.jpg" group-title="Persahabatan",Indo Vs Mali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5vJks43A1HwA-gt0HU28PVtefZ7zPv7jtA&s" group-title="Event",World Cup U17 CH1
@@ -32,7 +35,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
+#https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 
 
 
@@ -41,7 +44,7 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18249&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXm5EamUj3w2Y6PANp9tgvIG4UM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kumamoto-masters-japan-2025-qualifiers-round-of-32-court-1-69cd3e.jpg" group-title="BADMINTON", COURT 3
@@ -49,7 +52,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=18250&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
+#https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=18252&type=dash
 
 
 
