@@ -10,16 +10,6 @@ https://o4.sundaytueday.store/usa-beinlaliga.m3u8?auth_key=1758980546-3fcb0d0992
 #EXTVLCOPT:http-referrer=https://kilatlive.co/
 http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/43sg0fJwoDMjoZjkZSOOBqKbypE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5408224/original/055126700_1762766236-InShot_20251110_160047081.jpg" group-title="Persahabatan",Indo Vs Mali CH1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=icgimJciazYvfBsi9KiBQjc5WWcegWZw8lKwrSUmU6e0wnU_GIViP_GX4ImYzzDnICROUlHYxeeRMQLJveDm2UkEZ-vYHfs86LKC4GlJGyY=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_15_12_46_30_2af91e8b-52b9-45c6-88dd-405a0663ea18/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/43sg0fJwoDMjoZjkZSOOBqKbypE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5408224/original/055126700_1762766236-InShot_20251110_160047081.jpg" group-title="Persahabatan",Indo Vs Mali CH2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5vJks43A1HwA-gt0HU28PVtefZ7zPv7jtA&s" group-title="Event",World Cup U17 CH1
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -62,12 +52,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 
 
 
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A4yPuIMdGTsVZl-T1r_dFqdj_vc=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4684718/72ad9d.jpg"group-title="LIGA INDO", 19:00 BORNEO VS DEWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19534&type=drm
-#https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2025/11/14/BRI-Super-League-3458661340.jpg" group-title="Liga 1", Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 
 
