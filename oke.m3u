@@ -19,10 +19,6 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-CzPxRfI3igyOhYvUdAWzvFjGQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19786/live-reaction-timnas-indonesia-vs-zambia-fifa-u-17-world-cup-cover-bc6893.jpg" group-title="Piala Dunia U17", Indonesia vs Zambia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXm5EamUj3w2Y6PANp9tgvIG4UM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kumamoto-masters-japan-2025-qualifiers-round-of-32-court-1-69cd3e.jpg" group-title="BADMINTON", COURT 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
