@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -253,9 +253,14 @@ http://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_SKY_SPORTS_PREMIER_LEAGUE_TV/ind
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 2.#USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 1.#True Vision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
