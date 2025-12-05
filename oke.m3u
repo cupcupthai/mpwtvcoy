@@ -15,6 +15,35 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 https://shorter.me/GBXd0
 https://shorter.me/8LFJ_
 
+#EXTINF:-1 tvg-id="LIGA BRI" group-title="Seagames" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg", SEAGAMES 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+
+
+#EXTINF:-1 tvg-id="LIGA BRI" group-title="Seagames" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg", SEAGAMES 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
+
+#EXTINF:-1 tvg-id="LIGA BRI" group-title="Seagames" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg", SEAGAMES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
+
+#EXTINF:-1 tvg-id="LIGA BRI" group-title="Seagames" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg", SEAGAMES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXm5EamUj3w2Y6PANp9tgvIG4UM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kumamoto-masters-japan-2025-qualifiers-round-of-32-court-1-69cd3e.jpg" group-title="BADMINTON", COURT 1 
