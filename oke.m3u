@@ -80,11 +80,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2025/11/14/BRI-Super-League-3458661340.jpg" group-title="Liga 1", Liga 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg"group-title="feed", Proliga
