@@ -10,7 +10,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
 #EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSM vs Persebaya
-https://shorter.me/io1fL
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://d.jusamof.shop/hls/ZPPP.m3u8
 
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 19:30 WIB Aston Villa vs Arsenal
