@@ -9,12 +9,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
-#EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persib vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://shorter.me/GBXd0
-https://shorter.me/8LFJ_
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg" group-title="Seagames", SEAGAMES 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://visionplus.id/
