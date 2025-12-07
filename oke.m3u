@@ -10,20 +10,30 @@ https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 https://www.livedoomovies.com/Monomax_PL_2HD/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 19:30 WIB Aston Villa vs Arsenal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 6/DESEMBER/2025", 20:00 WIB Villareal vs Getafe
+#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/DESEMBER/2025", 20:00 WIB Elche vs Girona
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 6/DESEMBER/2025" , 21:00 WIB Sassuolo vs Fiorentina
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 7/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 21:00 WIB Brighton & Hove Albion vs West Ham United
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+https://b.tjjjva.shop/hls/HPPPP.m3u8
+https://shorter.me/-5Dx_
+
+#EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/DESEMBER/2025" , 21:00 WIB Cagliari vs Roma
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+
+#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/DESEMBER/2025", 22:15 WIB Valencia vs Sevilla
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 7/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 23:30 WIB Fulham vs Crystal Palace
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg" group-title="Seagames", SEAGAMES 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -47,11 +57,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://statik.tempo.co/data/2025/11/28/id_1444140/1444140_720.jpg" group-title="Seagames", SEAGAMES 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
-#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXm5EamUj3w2Y6PANp9tgvIG4UM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kumamoto-masters-japan-2025-qualifiers-round-of-32-court-1-69cd3e.jpg" group-title="BADMINTON", COURT 1 
