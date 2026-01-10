@@ -12,10 +12,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 9/JANUARI/2026", 19:00 WIB PSM vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://205.237.104.133/hls/kkkka.m3u8
+#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE VOLLY", PROLIGA CH 1
+https://tv.casindo.org/hls/2/2.m3u8
+
+#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE VOLLY", PROLIGA CH 2
+https://tv.casindo.org/hls/50/50.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXm5EamUj3w2Y6PANp9tgvIG4UM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/kumamoto-masters-japan-2025-qualifiers-round-of-32-court-1-69cd3e.jpg" group-title="BADMINTON", COURT 1 
