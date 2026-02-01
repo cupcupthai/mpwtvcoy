@@ -29,6 +29,48 @@ https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/In
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/FEBRUARI/2026" , 19:00 WIB Persebaya Surabaya vs Dewa United
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 1/FEBRUARI/2026", 20:00 WIB Real Madrid vs Rayo Vallecano
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 1/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester United vs Fulham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/FEBRUARI/2026" , 21:00 WIB Como vs Atalanta
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 1/FEBRUARI/2026", 22:15 WIB Real Betis vs Valencia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 1/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Tottenham Hotspur vs Manchester City
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 
 <==========National TV==========>
