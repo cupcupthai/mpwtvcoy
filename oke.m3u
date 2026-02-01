@@ -13,7 +13,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 
 
 
-#EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="https://thumbor.prod.vidiocdn.com/frEiW91XBJOmpkAS38UBDK4RdjU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-32-court-3-e3b737.jpg", Bulu Tangkis CH 1
+#EXTINF:-1 group-title="live" tvg-logo="https://thumbor.prod.vidiocdn.com/frEiW91XBJOmpkAS38UBDK4RdjU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-32-court-3-e3b737.jpg", Bulu Tangkis CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
