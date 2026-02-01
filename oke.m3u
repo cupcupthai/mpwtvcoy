@@ -23,12 +23,11 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18249&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="live" , Liga Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/mpwtv/mpwtv/refs/heads/main/ligaindo.m3u8
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/cropped-logo-proliga-2026-400px.png" group-title="live" , Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/e66701f73d335b725d1aa0242b9007585fc80c9b/volitv.m3u8
-
+http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 
 
 
