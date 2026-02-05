@@ -230,6 +230,10 @@ http://spstr.abntv.live/hls/psstream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/80/10/10/80101012a8417cc1f84808a0cb953e39.jpg"group-title="Sports",Tennis ch1
+http://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/80/10/10/80101012a8417cc1f84808a0cb953e39.jpg"group-title="Sports",Tennis ch2
+http://49.0.64.96:8007/TENNIS
 
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
