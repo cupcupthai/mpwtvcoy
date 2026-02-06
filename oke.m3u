@@ -72,10 +72,13 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
+EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png",TVOne
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
