@@ -243,10 +243,7 @@ http://spstr.abntv.live/hls/psstream.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084653/Premier-League-symbol-958x575.png", 1.#True Vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysportsmainevent.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/80/10/10/80101012a8417cc1f84808a0cb953e39.jpg"group-title="Sports",Tennis ch1
 http://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
