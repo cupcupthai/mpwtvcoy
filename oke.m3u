@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/7e/c6/1d/7ec61d8a58293a907f5a2d8c3aefedae.jpg" group-title="⚽ gratis", tidak di perjual belikan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.27/hls/VVVVJQ.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -20,21 +20,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(HBO)/master
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18249&type=drm
 #https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=18249&type=dash
-
-#EXTINF:-1 tvg-logo="https://imgsrv2.voi.id/LER6H-o52SepYT-NpuPKeaqtJDa2vKnSmu8IAi4QdzU/auto/970/544/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy81NDk5MzIvMjAyNjAxMDkxMzQ1LW1haW4uY3JvcHBlZF8xNzY3OTQxMTQ5LnBuZw.jpg" group-title="live" , Badminton Asia Championship
-https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="live" , Liga Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/cropped-logo-proliga-2026-400px.png" group-title="live" , Proliga
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 
 
