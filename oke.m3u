@@ -28,20 +28,7 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-1-1-rl43cu2fhn45q98vfenh7970272jkmbvuhr3bgpy4u.png" group-title="LIVE EVENT 27 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis CH1
-http://103.66.62.83:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-1-1-rl43cu2fhn45q98vfenh7970272jkmbvuhr3bgpy4u.png" group-title="LIVE EVENT 27 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis CH2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88390af982503e0f98a04a5c01756cce:b4332eb74fe92ec534052879acd39e63
-https://fifa.global.transmit.live/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_46_0996fd1f-45a5-48f1-8b13-5b05abdb5fe7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&app_version=2.7.105&catalog_id=667e0775-aa07-4723-8323-8827af6ca70e&cb=4575045228553&content_categories=fifa-tournaments&content_custom_1_param=%2F21817916705%2FFIFAOTT_TEST%2FCONTENT_LIVE%2FCONTENT_LIVE_WEB&content_custom_2_param=bfa5ef3c-952e-48f3-a1ae-119ae68c15e5&content_custom_3_param=121a6389-0962-41ba-9c23-0950f14c3838&content_genre=sport&content_id=5bec117c-8908-4f07-a086-3b7b16a5ea64&content_livestream=1&correlation=424347264&country=ID&device_profile=WEB&device_store=CHILI&device_type=other&dnt=0&dur=38&duration_profile=extra_short&h=800&language=en&rating=0&session_id_streaming=Y77ZVwhPC6crg-ZaGIMvrKGvr1L2mGYZ9yL178J9YLSUzE1OzOgQyTnNgQOUDZqgRzsGL2PIVYx9a35PT71_jUUUl_4doDIsuc4ygzpz_Mc&skip=1&sub_category=4aa9b5e2-5ccd-47c6-b2fb-51a9b907456d&url=https%3A%2F%2Fwww.plus.fifa.com%2F%2Fcontent%2F667e0775-aa07-4723-8323-8827af6ca70e&w=360&start=1774599540
-
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-1-1-rl43cu2fhn45q98vfenh7970272jkmbvuhr3bgpy4u.png" group-title="LIVE EVENT 27 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a2962ee92b432d5b2342275f148a3d5:05793fdebc1b66b3932d1d10dd9a469e
-https://d7pd9oqdl4d44.cloudfront.net/2026_03_24_14_35_50_b60e85c6-235e-4e6f-b44c-5106c5e6b37f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1774601940
-
+https://tfuj4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=d058a28ddf667ad2ed9b71ca1193c59c&wsABSTime=1774659550&wsSession=355d292e7b296e9bc0e706c3-177461635335008&wsIPSercert=18988c1a3907aeea5cdf5bef3f154bf1&wsBindIP=2&wsserid=1168240905503993728
 
 
 <==========National TV==========>
