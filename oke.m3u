@@ -13,8 +13,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=19541&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=19541&type=dash
 
 
 #EXTINF:-1 group-title="live" tvg-logo="https://thumbor.prod.vidiocdn.com/frEiW91XBJOmpkAS38UBDK4RdjU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-32-court-3-e3b737.jpg", Bulu Tangkis CH 1
@@ -42,7 +42,7 @@ https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=b049d894096858aa42ec4e7d3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
-https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
+#https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 <==========National TV==========>
 
