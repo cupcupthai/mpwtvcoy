@@ -27,13 +27,9 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=19541&type=dash
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-1-1-rl43cu2fhn45q98vfenh7970272jkmbvuhr3bgpy4u.png" group-title="LIVE EVENT 28 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis CH1
-https://tfuj4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=d058a28ddf667ad2ed9b71ca1193c59c&wsABSTime=1774659550&wsSession=355d292e7b296e9bc0e706c3-177461635335008&wsIPSercert=18988c1a3907aeea5cdf5bef3f154bf1&wsBindIP=2&wsserid=1168240905503993728
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 28 MARET 2026", 19:00 WIB PSMS MEDAN VS PSPS
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=b049d894096858aa42ec4e7d30a61d54&txTime=69c7bfdb
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-1-1-rl43cu2fhn45q98vfenh7970272jkmbvuhr3bgpy4u.png" group-title="LIVE EVENT 27 MARET 2026", 20:00 WIB Indonesia vs St. Kitts And Nevis CH2
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-2-rl939eizpf1rxfo3tftbxez27yw122uvaj3147ujgu.png" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -42,7 +38,11 @@ https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=b049d894096858aa42ec4e7d3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
-#https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
+https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-2-rl939eizpf1rxfo3tftbxez27yw122uvaj3147ujgu.png" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria CH2
+https://tfuj4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=d058a28ddf667ad2ed9b71ca1193c59c&wsABSTime=1774659550&wsSession=355d292e7b296e9bc0e706c3-177461635335008&wsIPSercert=18988c1a3907aeea5cdf5bef3f154bf1&wsBindIP=2&wsserid=1168240905503993728
+
 
 <==========National TV==========>
 
