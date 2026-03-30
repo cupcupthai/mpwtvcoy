@@ -6,7 +6,11 @@
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mpw.org/wp-content/uploads/2024/07/UPDATED-WEB-LOGO.png" group-title="⚽ gratis", mpwtv ini gratiss
-http://live5.msrktz.app/live/02456966.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 
 #EXTINF:-1 group-title="live" tvg-logo="https://thumbor.prod.vidiocdn.com/frEiW91XBJOmpkAS38UBDK4RdjU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/princess-sirivannavari-thailand-masters-2026-round-of-32-court-3-e3b737.jpg", Bulu Tangkis CH 1
