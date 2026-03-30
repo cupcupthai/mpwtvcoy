@@ -41,8 +41,7 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=19541&type=dash
 https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-2-rl939eizpf1rxfo3tftbxez27yw122uvaj3147ujgu.png" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria CH2
-https://tfuj4gr3uomttgr31hcjtgozdkp3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=d058a28ddf667ad2ed9b71ca1193c59c&wsABSTime=1774659550&wsSession=355d292e7b296e9bc0e706c3-177461635335008&wsIPSercert=18988c1a3907aeea5cdf5bef3f154bf1&wsBindIP=2&wsserid=1168240905503993728
-
+http://103.66.62.83:8000/play/a00o/index.m3u8
 
 <==========National TV==========>
 
