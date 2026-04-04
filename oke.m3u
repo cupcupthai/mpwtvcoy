@@ -28,9 +28,6 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=drm
 #https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK-BOLA_FIFA-SERIES-2026_SCHEDULE-2-rl939eizpf1rxfo3tftbxez27yw122uvaj3147ujgu.png" group-title="LIVE EVENT 30 MARET 2026", 20:00 WIB Indonesia vs Bulgaria CH2
-#http://103.66.62.83:8000/play/a00o/index.m3u8
-
 #EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE EVENT 2 APRIL 2026", PROLIGA CH 1
 http://103.66.62.83:8000/play/a02c/index.m3u8
 
@@ -42,6 +39,29 @@ http://103.66.62.83:8000/play/a02c/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=20240&type=drm
 https://pipit.barjagaul.workers.dev/play.mpd?id=20240&type=dash
+
+
+15:30 WIB PSM Makassar vs Persis Solo
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSM Makassar vs Persis Solo
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+15:30 WIB Persiku vs Tornado
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB Persiku vs Tornado
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+15:30 WIB PSS vs Persipal Palu
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSS vs Persipal Palu
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+
+18:45 WIB Manchester City vs Liverpool
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMI1WNCdG23m2Y9MwOp7IKlRr70-cTunOyzYPRU65jRtJi0sb-YqQuw0&s=10" group-title="LIVE EVENT 04 APRIL 2026",18:45 WIB Manchester City vs Liverpool
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+19:00 WIB PSM Makassar vs Persis Solo
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB PSM Makassar vs Persis Solo
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
 
 <==========National TV==========>
 
