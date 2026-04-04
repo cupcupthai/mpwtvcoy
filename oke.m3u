@@ -60,6 +60,14 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB PSM Makassar vs Persis Solo
 https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
 
+
+21:00 WIB Sassuolo vs Cagliari
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 21:00 WIB Sassuolo vs Cagliari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 <==========National TV==========>
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
