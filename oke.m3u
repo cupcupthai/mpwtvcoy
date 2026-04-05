@@ -31,11 +31,11 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 #EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE EVENT 2 APRIL 2026", PROLIGA CH 1
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
 
-#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE EVENT 2 APRIL 2026", PROLIGA CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-origin=https://vern.cjk71vanywherect4uezbean.shop
-#EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
+#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEnzpHP265QkraoNjhUOc8ST2eb7UEErsOA&s" group-title="LIVE EVENT 2 APRIL 2026", LIGA INDO
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+http://195.178.110.2/hls/VJJJQQQQ.m3u8
 
 19:00 WIB Semen Padang vs Persib
 #EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Semen Padang vs Persib (JL)
