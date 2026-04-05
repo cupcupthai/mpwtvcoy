@@ -29,7 +29,7 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 #https://pipit.barjagaul.workers.dev/play.mpd?id=20992&type=dash
 
 #EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE EVENT 2 APRIL 2026", PROLIGA CH 1
-http://103.66.62.83:8000/play/a02c/index.m3u8
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298550
 
 #EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE EVENT 2 APRIL 2026", PROLIGA CH 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
