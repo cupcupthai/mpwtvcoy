@@ -37,36 +37,39 @@ http://103.66.62.83:8000/play/a02c/index.m3u8
 #EXTVLCOPT:http-referrer=https://vern.cjk71vanywherect4uezbean.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 
+19:00 WIB Semen Padang vs Persib
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Semen Padang vs Persib (JL)
+https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=68e1ac1dd5f22e66bab8852b22162d2f&txTime=69d25084
 
-15:30 WIB PSM Makassar vs Persis Solo
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSM Makassar vs Persis Solo
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+19:00 WIB Madura United vs Borneo
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZppdiSAcJ8sWLEJgBj203UdcEd8oN1q0RqGSOXYY3A&s=10", 19:00 WIB Madura vs Borneo (JL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
+https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=5d197a82b350b0f39157491678dd4910&txTime=69d248e5
 
-15:30 WIB Persiku vs Tornado
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB Persiku vs Tornado
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
+19:00 WIB Deltras vs Persela
+#EXTINF:-1 group-title="LIVE EVENT 05 APRIL 2026" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10", 19:00 WIB Deltras vs Persela (JL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36 
+https://bf.jabflive.com/live/322813_hd01.m3u8?txSecret=8aeb43fc148feddef0309815f54828bc&txTime=69d24f78
 
-15:30 WIB PSS vs Persipal Palu
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LTL0dqWjDUbC_ZODFM6-QVtXOcfeDrUFz3_dp6a1-w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 15:30 WIB PSS vs Persipal Palu
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
-
-18:45 WIB Manchester City vs Liverpool
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMI1WNCdG23m2Y9MwOp7IKlRr70-cTunOyzYPRU65jRtJi0sb-YqQuw0&s=10" group-title="LIVE EVENT 04 APRIL 2026",18:45 WIB Manchester City vs Liverpool
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-19:00 WIB PSM Makassar vs Persis Solo
-#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiACO4x5B0DGh7Ww-1PWIhGnYzI7Ldt-gui508xhFh1w&s=10" group-title="LIVE EVENT 04 APRIL 2026", 19:00 WIB PSM Makassar vs Persis Solo
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=a7b1cba1cfa9140b0eba8dcd0e4a4aba&txTime=69d050a7
-
-
-21:00 WIB Sassuolo vs Cagliari
-#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 04 APRIL 2026", 21:00 WIB Sassuolo vs Cagliari
+20:00 WIB Cremonese vs Bologna
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 05 APRIL 2026",20:00 WIB Cremonese vs Bologna (BAU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+===============================================
+
+LIVE EVENT 06 APRIL 2026
+
+01:45 WIB INTER VS ROMA
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2020/05/08/2676570100.jpg" group-title="LIVE EVENT 06 APRIL 2026",01:45 WIB Inter Milan vs AS Roma (BAU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
 
 <==========National TV==========>
 
